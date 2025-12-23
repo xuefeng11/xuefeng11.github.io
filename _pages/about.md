@@ -49,7 +49,7 @@ latest_posts:
 **My research interests include, but are not limited to:**
 
 - **AI for Life Sciences**
-  - Biomarker discovery, Biomolecular design, Drug discovery, Binding affinity prediction, Lead discovery and optimization  
+  - Biomarker discovery, Biomolecular design, Drug discovery, Binding affinity prediction, Lead discovery and optimization
 
 - **Reinforcement Learning**
   - Reasoning, planning, and decision-making under uncertainty  
