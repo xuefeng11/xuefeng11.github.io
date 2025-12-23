@@ -46,7 +46,7 @@ latest_posts:
 
 <!-- My research addresses the **CURED** challenges—<u>**C**</u>ontrollability, <u>**U**</u>nified multimodality, <u>**R**</u>obustness, <u>**E**</u>fficiency, and <u>**D**</u>ependability on biophysical and biological principles—by bridging first-principles modeling and modern AI. This framework underpins my work on biomarker discovery, biomolecular design, binding affinity prediction, lead discovery and optimization, and autonomous scientific discovery workflows.  -->
 
-**My research interests include, but are not limited to:**
+My research interests include, but are not limited to:
 
 - **AI for Life Sciences**
   -  Biomolecular design, drug discovery, biomarker discovery, binding affinity prediction, lead discovery and optimization
