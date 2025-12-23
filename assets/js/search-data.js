@@ -448,6 +448,13 @@ ninja.data = [{
           window.open("mailto:%78%75%65%66%65%6E%67@%75%63%68%69%63%61%67%6F.%65%64%75", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/www.linkedin.com/in/xuefeng-liu-658278200# your LinkedIn user name", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
