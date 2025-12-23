@@ -4,13 +4,9 @@ title: about
 permalink: /
 subtitle: >
 <p> Ph.D., Department of Computer Science, </p>
-<p> <a href="https://www.uchicago.edu/">University of Chicago (UChicago)</a>, </p>
-<p> <a href="xuefeng@uchicago.edu">xuefeng@uchicago.edu</a>, <a href="xuefeng.liu@anl.gov">xuefeng.liu@anl.gov</a></p>
+# <p> <a href="https://www.uchicago.edu/">University of Chicago (UChicago)</a>, </p>
+# <p> <a href="xuefeng@uchicago.edu">xuefeng@uchicago.edu</a>, <a href="xuefeng.liu@anl.gov">xuefeng.liu@anl.gov</a></p>
 
-
-
-
-My research interests include but not limited to
 
 
 
