@@ -35,7 +35,7 @@ latest_posts:
 
 **Research:** My primary research focuses on two complementary directions.  
 (1) **Machine Learning Foundations**: I develop theoretically grounded frameworks in reinforcement learning and advanced generative modeling, integrating active learning, imitation learning, and multi-expert learning to improve sample efficiency, policy selection, and exploration–exploitation trade-offs.  
-(2) **AI for Life Sciences***, with a particular emphasis on **biomolecular design**, where I integrate biophysical and biological system modeling with modern machine learning methodologies, including reinforcement learning, generative models, and foundation models. Classical computational approaches rooted in physics, chemistry, and molecular biophysics have long been essential for understanding biological mechanisms and guiding rational design in drug discovery and protein engineering, while recent advances in AI have reshaped how complex, high-dimensional, and data-scarce scientific problems are modeled, explored, and optimized.
+(2) **AI for Life Sciences**, with a particular emphasis on **biomolecular design**, where I integrate biophysical and biological system modeling with modern machine learning methodologies, including RL, generative models, and foundation models. Classical computational approaches rooted in physics, chemistry, and molecular biophysics have long been essential for understanding biological mechanisms and guiding rational design in drug discovery and protein engineering, while recent advances in AI have reshaped how complex, high-dimensional, and data-scarce scientific problems are modeled, explored, and optimized.
 <!-- Although these paradigms may appear distinct, I view them as deeply complementary. **Physical, chemical, and biological principles provide structure, interpretability, and inductive bias**, while **machine learning offers flexible, scalable, and data-efficient tools for navigating vast  design spaces and capturing complex biological dependencies**. By leveraging **large-scale multimodal biological data**, high-performance computing, and **interactive learning paradigms**, AI-driven approaches can move beyond static prediction toward **planning, decision-making, and closed-loop optimization** in complex scientific systems. -->
 
 My research aims to address the “CURED” challenges—<u>C</u>ontrollability, Unified multimodality, Robustness, Efficiency, and Dependability on biophysical and biological principles—by tightly bridging first-principles modeling and modern AI. This framework underpins my work on protein and small-molecule design, binding affinity prediction, lead discovery and optimization, and autonomous scientific discovery workflows.
@@ -45,7 +45,7 @@ Research interests include, but are not limited to:
 - Reinforcement learning, planning, and decision-making under uncertainty  
 - Generative models and foundation models for biomolecular design and beyond
 - Agentic AI and LLM-based reasoning for scientific discovery  
-- Multimodal representation learning for biological and chemical systems  
+- Multimodal representation learning for biological systems  
 - Active learning, interactive learning, and data-efficient optimization
 - Physics- and biology-informed machine learning
 
