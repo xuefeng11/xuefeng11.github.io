@@ -52,14 +52,14 @@ latest_posts:
   - Biomarker discovery, Biomolecular design, Drug discovery, Binding affinity prediction, Lead discovery and optimization
 
 - **Reinforcement Learning**
+  - Pretraining and post-training strategy
   - Reasoning, planning, and decision-making under uncertainty  
 
 - **Generative and Foundation Models**
-  - Pretraining and post-training  
   - Generative modeling for biomolecular design and beyond  
 
 - **Agentic AI for Scientific Discovery**
-  - multimodal reasoning systems for autonomous discovery  
+  - multimodal reasoning systems for autonomous scientific discovery  
 
 - **Scientific Machine Learning**
   - Physics- and Biology-informed machine learning 
