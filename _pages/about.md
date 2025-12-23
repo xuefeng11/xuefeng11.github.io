@@ -49,10 +49,10 @@ latest_posts:
 **My research interests include, but are not limited to:**
 
 - **AI for Life Sciences**
-  -  Biomolecular design, Drug discovery, Biomarker discovery, Binding affinity prediction, Lead discovery and optimization
+  -  Biomolecular design, drug discovery, biomarker discovery, binding affinity prediction, lead discovery and optimization
 
 - **Reinforcement Learning**
-  - Pretraining and post-training strategy
+  - RL in pretraining, post-training, decoding
   - Reasoning, planning, and decision-making under uncertainty  
 
 - **Generative and Foundation Models**
@@ -74,8 +74,8 @@ latest_posts:
 ---
 
 **About Me:** I received my Ph.D. in Computer Science from <a href="https://www.uchicago.edu/">University of Chicago</a>, where I was advised by 
-<a href="https://computerscience.uchicago.edu/people/rick-stevens/">Dr. Rick L. Stevens</a>, 
-with co-advisors <a href="https://yuxinchen.org/">Dr. Yuxin Chen</a> and <a href="https://home.ttic.edu/~jinbo/">Dr. Jinbo Xu</a>. I am also a Research Associate at <a href="https://www.anl.gov/">Argonne National Laboratory</a>, where my work focuses on AI for Life Sciences.
+<a href="https://computerscience.uchicago.edu/people/rick-stevens/">Prof. Rick L. Stevens</a>, 
+with co-advisors <a href="https://yuxinchen.org/">Prof. Yuxin Chen</a> and <a href="https://home.ttic.edu/~jinbo/">Prof. Jinbo Xu</a>. I am also a research associate at <a href="https://www.anl.gov/">Argonne National Laboratory</a>, where my work focuses on AI for Life Sciences.
 
 
 
