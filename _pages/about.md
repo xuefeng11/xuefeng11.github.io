@@ -59,7 +59,7 @@ latest_posts:
   - Generative modeling for biomolecular design and beyond  
 
 - **Agentic AI for Scientific Discovery**
-  - multimodal reasoning systems for autonomous scientific discovery  
+  - Multimodal reasoning systems for autonomous scientific discovery  
 
 - **Scientific Machine Learning**
   - Physics- and Biology-informed machine learning 
