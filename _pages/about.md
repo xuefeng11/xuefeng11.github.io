@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:  Ph.D., Department of Computer Science, <br> <a href="https://www.uchicago.edu/">University of Chicago (UChicago)</a>,<br> <a href="mailto:xuefeng@uchicago.edu">xuefeng@uchicago.edu</a>, <a href="mailto:xuefeng.liu@anl.gov">xuefeng.liu@anl.gov</a>
+subtitle:  Ph.D., Department of Computer Science, <br> <a href="https://www.uchicago.edu/">University of Chicago (UChicago)</a>,<br> <a href="mailto:xuefeng@uchicago.edu">xuefeng@uchicago.edu (Primary)</a>, <a href="mailto:xuefeng.liu@anl.gov">xuefeng.liu@anl.gov</a>
 
 
 
