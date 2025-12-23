@@ -49,11 +49,7 @@ latest_posts:
 **My research interests include, but are not limited to:**
 
 - **AI for Life Sciences**
-  - Biomarker discovery  
-  - Biomolecular design  
-  - Drug discovery  
-  - Binding affinity prediction  
-  - Lead discovery and optimization  
+  - Biomarker discovery, Biomolecular design, Drug discovery, Binding affinity prediction, Lead discovery and optimization  
 
 - **Reinforcement Learning**
   - Reasoning, planning, and decision-making under uncertainty  
@@ -63,21 +59,18 @@ latest_posts:
   - Generative modeling for biomolecular design and beyond  
 
 - **Agentic AI for Scientific Discovery**
-  - LLM- and agent-based reasoning systems for autonomous discovery  
-
-- **Multimodal Machine Learning**
-  - Multimodal representation learning for biological systems  
-
-- **Data-Efficient Learning**
-  - Active learning and interactive learning  
-  - Data-efficient optimization  
+  - multimodal reasoning systems for autonomous discovery  
 
 - **Scientific Machine Learning**
-  - Physics-informed machine learning  
-  - Biology-informed machine learning  
+  - Physics- and Biology-informed machine learning 
 
+<!-- - **Multimodal Machine Learning**
+  - Multimodal representation learning for biological systems   -->
 
-  
+<!-- - **Data-Efficient Learning**
+  - Active learning and interactive learning  
+  - Data-efficient optimization   -->
+
 ---
 
 **About Me:** I received my Ph.D. in Computer Science from <a href="https://www.uchicago.edu/">University of Chicago</a>, where I was advised by 
