@@ -33,13 +33,11 @@ latest_posts:
 
 
 
-## Research
-
-My primary research focuses on two complementary directions.  
+**Research:** My primary research focuses on two complementary directions.  
 (1) **Machine Learning Foundations**: I develop theoretically grounded frameworks in **reinforcement learning** and **advanced generative modeling**, integrating active learning, imitation learning, and multi-expert learning to improve **sample efficiency, policy selection, and exploration–exploitation trade-offs**.  
-(2) **AI for Science**, with a particular emphasis on **AI for Life Sciences**, where I integrate **biophysical and biological system modeling** with modern machine learning methodologies, including **reinforcement learning, generative models, and foundation models**. Classical computational approaches rooted in physics, chemistry, and molecular biophysics have long been essential for understanding biological mechanisms and guiding rational design in drug discovery and protein engineering. In parallel, recent advances in artificial intelligence have fundamentally reshaped how complex, high-dimensional, and data-scarce scientific problems can be modeled, explored, and optimized.
+(2) **AI for Life Sciences***, with a particular emphasis on **biomolecular design**, where I integrate **biophysical and biological system modeling** with modern machine learning methodologies, including **reinforcement learning, generative models, and foundation models**. Classical computational approaches rooted in physics, chemistry, and molecular biophysics have long been essential for understanding biological mechanisms and guiding rational design in drug discovery and protein engineering. In parallel, recent advances in artificial intelligence have fundamentally reshaped how complex, high-dimensional, and data-scarce scientific problems can be modeled, explored, and optimized.
 
-Although these paradigms may appear distinct, I view them as deeply complementary. **Physical, chemical, and biological principles provide structure, interpretability, and inductive bias**, while **machine learning offers flexible, scalable, and data-efficient tools for navigating vast  design spaces and capturing complex biological dependencies**. By leveraging **large-scale multimodal biological data**, high-performance computing, and **interactive learning paradigms**, AI-driven approaches can move beyond static prediction toward **planning, decision-making, and closed-loop optimization** in complex scientific systems.
+<!-- Although these paradigms may appear distinct, I view them as deeply complementary. **Physical, chemical, and biological principles provide structure, interpretability, and inductive bias**, while **machine learning offers flexible, scalable, and data-efficient tools for navigating vast  design spaces and capturing complex biological dependencies**. By leveraging **large-scale multimodal biological data**, high-performance computing, and **interactive learning paradigms**, AI-driven approaches can move beyond static prediction toward **planning, decision-making, and closed-loop optimization** in complex scientific systems. -->
 
 My research is guided by the **CURED framework**—**Controllability, Unified multimodality, Robustness, Efficiency, and Dependability on biophysical and biological principles**—which aims to tightly bridge **first-principles modeling and modern AI**. This framework underpins my work on **protein and small-molecule design, binding affinity prediction, lead discovery and optimization, and autonomous scientific discovery workflows**.
 
@@ -53,9 +51,9 @@ My research is guided by the **CURED framework**—**Controllability, Unified mu
 
 ---
 
-## About Me
-
-I received my **Ph.D. in Computer Science** from **the University of Chicago**, where I was advised by **Dr. Rick L. Stevens**, with co-advisors **Dr. Yuxin Chen** and **Dr. Jinbo Xu**. I am also a **Research Associate** at **Argonne National Laboratory**, where I work on large-scale AI-driven methods for scientific discovery.
+**About Me:** I received my **Ph.D. in Computer Science** from <a href="https://www.uchicago.edu/">University of Chicago</a>, where I was advised by 
+<a href="https://computerscience.uchicago.edu/people/rick-stevens/">Dr. Rick L. Stevens</a>, 
+with co-advisors <a href="https://yuxinchen.org/">Dr. Yuxin Chen</a> and <a href="https://home.ttic.edu/~jinbo/">Dr. Jinbo Xu</a>. I am also a **Research Associate** at <a href="https://www.anl.gov/">Argonne National Laboratory</a>, where my work focuses on AI for Life Sciences.
 
 
 
