@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Department of Computer Science, <a href="https://www.uchicago.edu/">University of Chicago (UChicago)</a>. xuefeng@uchicago.edu (Primary), xuefeng.liu@anl.gov
 
 profile:
   align: right
