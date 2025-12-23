@@ -9,8 +9,9 @@ profile:
   image: prof_pic2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>xuefeng@uchicago.edu (primary)</p>
-    <p>xuefneg.liu@anl.gov</p>
+    <p>JCL 298, Computer Science Department</p>
+    <p>5730 S Ellis Ave</p>
+    <p>Chicago, IL 60637</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
