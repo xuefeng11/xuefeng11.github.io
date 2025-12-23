@@ -38,11 +38,14 @@ latest_posts:
 (2) **AI for Life Sciences**, with a particular emphasis on **biomolecular design**, where I integrate biophysical and biological system modeling with modern machine learning methodologies, including RL, generative models, and foundation models. Classical computational approaches rooted in physics, chemistry, and molecular biophysics have long been essential for understanding biological mechanisms and guiding rational design in drug discovery and protein engineering, while recent advances in AI have reshaped how complex, high-dimensional, and data-scarce scientific problems are modeled, explored, and optimized.
 <!-- Although these paradigms may appear distinct, I view them as deeply complementary. **Physical, chemical, and biological principles provide structure, interpretability, and inductive bias**, while **machine learning offers flexible, scalable, and data-efficient tools for navigating vast  design spaces and capturing complex biological dependencies**. By leveraging **large-scale multimodal biological data**, high-performance computing, and **interactive learning paradigms**, AI-driven approaches can move beyond static prediction toward **planning, decision-making, and closed-loop optimization** in complex scientific systems. -->
 
-My research addresses the **CURED** challenges—<u>**C**</u>ontrollability, <u>**U**</u>nified multimodality, <u>**R**</u>obustness, <u>**E**</u>fficiency, and <u>**D**</u>ependability on biophysical and biological principles—by bridging first-principles modeling and modern AI. This framework underpins my work on biomarker discovery, biomolecular design, binding affinity prediction, lead discovery and optimization, and autonomous scientific discovery workflows. My research interests include, but are not limited to:
+<!-- My research addresses the **CURED** challenges—<u>**C**</u>ontrollability, <u>**U**</u>nified multimodality, <u>**R**</u>obustness, <u>**E**</u>fficiency, and <u>**D**</u>ependability on biophysical and biological principles—by bridging first-principles modeling and modern AI. This framework underpins my work on biomarker discovery, biomolecular design, binding affinity prediction, lead discovery and optimization, and autonomous scientific discovery workflows.  -->
 
-- Reinforcement learning, planning, and decision-making under uncertainty  
+My research interests include, but are not limited to:
+
+- AI for Life Sciences: biomolecular design, Drug Discovery, binding affinity prediction, lead discovery and optimization
+- Reinforcement learning: reasoning, planning, and decision-making under uncertainty 
 - Generative models and foundation models for biomolecular design and beyond
-- Agentic AI and LLM-based reasoning for scientific discovery  
+- Agentic AI for scientific discovery
 - Multimodal representation learning for biological systems  
 - Active learning, interactive learning, and data-efficient optimization
 - Physics- and biology-informed machine learning
