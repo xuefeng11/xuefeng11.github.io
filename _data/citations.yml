@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2025-12-19'
+  last_updated: '2025-12-24'
 papers:
   drl-JiIAAAAJ:3fE2CSJIrl8C:
     citations: 2
@@ -26,11 +26,11 @@ papers:
     title: Bidirectional Hierarchical Protein Multimodal Representation Learning
     year: '2025'
   drl-JiIAAAAJ:Se3iqnhoufwC:
-    citations: 9
+    citations: 10
     title: Reflections from the 2024 large language model (llm) hackathon for applications in materials science and chemistry
     year: '2024'
   drl-JiIAAAAJ:Tyk-4Ss8FVUC:
-    citations: 18
+    citations: 19
     title: Active Policy Improvement from Multiple Black-box Oracles
     year: '2023'
   drl-JiIAAAAJ:UeHWp8X0CEIC:
@@ -65,6 +65,10 @@ papers:
     citations: 1
     title: 'Learning from Imperfect Human Feedback: a Tale from Corruption-Robust Dueling'
     year: '2024'
+  drl-JiIAAAAJ:_kc_bZDykSQC:
+    citations: 0
+    title: Multi-Objective Coverage via Constraint Active Search
+    year: '2025'
   drl-JiIAAAAJ:eQOLeE2rZwMC:
     citations: 0
     title: 'APO: Advantage-alignment Policy Optimization for Fine-tuning Generative Models'
