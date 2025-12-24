@@ -42,20 +42,16 @@ latest_posts:
 My research interests include, but are not limited to:
 
 - **AI for Life Sciences**
-
   - Biomolecular design, drug discovery, biomarker discovery, binding affinity prediction, lead discovery and optimization
 
 - **Reinforcement Learning**
-
   - RL in pretraining, post-training, decoding
   - Reasoning, planning, and decision-making under uncertainty
 
 - **Generative and Foundation Models**
-
   - Generative modeling for biomolecular design and beyond
 
 - **Agentic AI for Scientific Discovery**
-
   - Multimodal reasoning systems for autonomous scientific discovery
 
 - **Scientific Machine Learning**
