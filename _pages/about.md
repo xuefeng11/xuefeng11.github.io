@@ -2,11 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:  Ph.D., Department of Computer Science, <br> <a href="https://www.uchicago.edu/">University of Chicago (UChicago)</a>,<br> <a href="mailto:xuefeng@uchicago.edu">xuefeng@uchicago.edu (primary)</a>, <a href="mailto:xuefeng.liu@anl.gov">xuefeng.liu@anl.gov</a>
-
-
-
-
+subtitle: Ph.D., Department of Computer Science, <br> <a href="https://www.uchicago.edu/">University of Chicago (UChicago)</a>,<br> <a href="mailto:xuefeng@uchicago.edu">xuefeng@uchicago.edu (primary)</a>, <a href="mailto:xuefeng.liu@anl.gov">xuefeng.liu@anl.gov</a>
 
 profile:
   align: right
@@ -31,15 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-
 **Research:** My research spans two complementary directions.  
 (1) **Machine Learning Foundations**: I develop theoretically grounded methods in reinforcement learning and generative modeling, integrating active, imitation, and multi-expert learning to improve sample efficiency, policy selection, and exploration–exploitation trade-offs.  
 (2) **AI for Life Sciences**, with a focus on **biomolecular design**, where I integrate biophysical and biological modeling with modern AI—particularly reinforcement learning, generative models, and foundation models—to address the **CURED** challenges: <u>C</u>ontrollability, <u>U</u>nified multimodality, <u>R</u>obustness, <u>E</u>fficiency, and <u>D</u>ependability on biophysical and biological principles in drug discovery and biomolecular design.
 
-
-
-<!-- **Research:** My primary research focuses on two complementary directions.  
-(1) **Machine Learning Foundations**: I develop theoretically grounded frameworks in reinforcement learning and advanced generative modeling, integrating active learning, imitation learning, and multi-expert learning to improve sample efficiency, policy selection, and exploration–exploitation trade-offs.  
+<!-- **Research:** My primary research focuses on two complementary directions.
+(1) **Machine Learning Foundations**: I develop theoretically grounded frameworks in reinforcement learning and advanced generative modeling, integrating active learning, imitation learning, and multi-expert learning to improve sample efficiency, policy selection, and exploration–exploitation trade-offs.
 (2) **AI for Life Sciences**, with a particular emphasis on **biomolecular design**, where I integrate biophysical and biological system modeling with modern machine learning methodologies, including RL, generative models, and foundation models. Classical computational approaches rooted in physics, chemistry, and molecular biophysics have long been essential for understanding biological mechanisms and guiding rational design in drug discovery and protein engineering, while recent advances in AI have reshaped how complex, high-dimensional, and data-scarce scientific problems are modeled, explored, and optimized. -->
 
 <!-- Although these paradigms may appear distinct, I view them as deeply complementary. **Physical, chemical, and biological principles provide structure, interpretability, and inductive bias**, while **machine learning offers flexible, scalable, and data-efficient tools for navigating vast  design spaces and capturing complex biological dependencies**. By leveraging **large-scale multimodal biological data**, high-performance computing, and **interactive learning paradigms**, AI-driven approaches can move beyond static prediction toward **planning, decision-making, and closed-loop optimization** in complex scientific systems. -->
@@ -49,35 +42,37 @@ latest_posts:
 My research interests include, but are not limited to:
 
 - **AI for Life Sciences**
-  -  Biomolecular design, drug discovery, biomarker discovery, binding affinity prediction, lead discovery and optimization
+
+  - Biomolecular design, drug discovery, biomarker discovery, binding affinity prediction, lead discovery and optimization
 
 - **Reinforcement Learning**
+
   - RL in pretraining, post-training, decoding
-  - Reasoning, planning, and decision-making under uncertainty  
+  - Reasoning, planning, and decision-making under uncertainty
 
 - **Generative and Foundation Models**
-  - Generative modeling for biomolecular design and beyond  
+
+  - Generative modeling for biomolecular design and beyond
 
 - **Agentic AI for Scientific Discovery**
-  - Multimodal reasoning systems for autonomous scientific discovery  
+
+  - Multimodal reasoning systems for autonomous scientific discovery
 
 - **Scientific Machine Learning**
-  - Physics- and Biology-informed machine learning 
+  - Physics- and Biology-informed machine learning
 
 <!-- - **Multimodal Machine Learning**
   - Multimodal representation learning for biological systems   -->
 
 <!-- - **Data-Efficient Learning**
-  - Active learning and interactive learning  
+  - Active learning and interactive learning
   - Data-efficient optimization   -->
 
 ---
 
-**About Me:** I received my Ph.D. in Computer Science from <a href="https://www.uchicago.edu/">University of Chicago</a>, where I was advised by 
-<a href="https://computerscience.uchicago.edu/people/rick-stevens/">Prof. Rick L. Stevens</a>, 
+**About Me:** I received my Ph.D. in Computer Science from <a href="https://www.uchicago.edu/">University of Chicago</a>, where I was advised by
+<a href="https://computerscience.uchicago.edu/people/rick-stevens/">Prof. Rick L. Stevens</a>,
 with co-advisors <a href="https://yuxinchen.org/">Prof. Yuxin Chen</a> and <a href="https://home.ttic.edu/~jinbo/">Prof. Jinbo Xu</a>. I am also a research associate at <a href="https://www.anl.gov/">Argonne National Laboratory</a>, where my work focuses on AI for Life Sciences.
-
-
 
 <!-- ## Research
 
@@ -88,11 +83,11 @@ Although these paradigms may appear distinct, I view them as deeply complementar
 My research focuses on developing CURED system-  **Controllability, Unified multimodality, Robustness, Efficiency, and Dependability on biophysical & biological principles.** that bridge **first-principles modeling and modern AI**, with applications in **protein and small-molecule design, binding affinity prediction, lead discovery and optimization, and autonomous scientific discovery workflows**.
 
 **Research interests include, but are not limited to:**
-- Reinforcement learning, planning, and decision-making under uncertainty  
-- Generative models and foundation models for molecular and protein design  
-- Agentic AI and LLM-based reasoning for scientific discovery  
-- Multimodal representation learning for biological and chemical systems  
-- Active learning, interactive learning, and data-efficient optimization  
+- Reinforcement learning, planning, and decision-making under uncertainty
+- Generative models and foundation models for molecular and protein design
+- Agentic AI and LLM-based reasoning for scientific discovery
+- Multimodal representation learning for biological and chemical systems
+- Active learning, interactive learning, and data-efficient optimization
 - Physics- and biology-informed machine learning
 
 ---
@@ -101,7 +96,7 @@ My research focuses on developing CURED system-  **Controllability, Unified mult
 
 I received my **Ph.D. in Computer Science** at **The University of Chicago**, where I was advised by **Dr. Rick L. Stevens**, with co-advivised by **Dr. Yuxin Chen** and **Dr. Jinbo Xu**.  I am also a **research associate** at **Argonne National Laboratory**. -->
 
-<!-- 
+<!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
