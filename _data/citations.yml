@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2025-12-26'
+  last_updated: '2026-01-12'
 papers:
   drl-JiIAAAAJ:3fE2CSJIrl8C:
     citations: 2
@@ -10,7 +10,7 @@ papers:
     title: Active Advantage-Aligned Online Reinforcement Learning with Offline Data
     year: '2025'
   drl-JiIAAAAJ:8k81kl-MbHgC:
-    citations: 3
+    citations: 2
     title: 'ControllableGPT: A Ground-Up Designed Controllable GPT for Molecule Optimization'
     year: '2025'
   drl-JiIAAAAJ:KlAtU1dfN6UC:
@@ -26,7 +26,7 @@ papers:
     title: Bidirectional Hierarchical Protein Multimodal Representation Learning
     year: '2025'
   drl-JiIAAAAJ:Se3iqnhoufwC:
-    citations: 10
+    citations: 12
     title: Reflections from the 2024 large language model (llm) hackathon for applications in materials science and chemistry
     year: '2024'
   drl-JiIAAAAJ:Tyk-4Ss8FVUC:
@@ -74,7 +74,7 @@ papers:
     title: 'APO: Advantage-alignment Policy Optimization for Fine-tuning Generative Models'
     year: '2024'
   drl-JiIAAAAJ:hqOjcs7Dif8C:
-    citations: 6
+    citations: 5
     title: 'DrugImproverGPT: A Large Language Model for Drug Optimization with Fine-Tuning via Structured Policy Optimization'
     year: '2025'
   drl-JiIAAAAJ:kNdYIx-mwKoC:
@@ -86,7 +86,7 @@ papers:
     title: Contextual Active Model Selection
     year: '2024'
   drl-JiIAAAAJ:roLk4NBRz8UC:
-    citations: 6
+    citations: 7
     title: 'Binding Affinity Prediction: From Conventional to Machine Learning-Based Approaches'
     year: '2025'
   drl-JiIAAAAJ:u5HHmVD_uO8C:
