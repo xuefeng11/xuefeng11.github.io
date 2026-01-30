@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-26'
+  last_updated: '2026-01-30'
 papers:
   drl-JiIAAAAJ:3fE2CSJIrl8C:
     citations: 2
@@ -46,7 +46,7 @@ papers:
     title: Entropy-Reinforced Planning with Large Language Models for Drug Discovery
     year: '2024'
   drl-JiIAAAAJ:Y0pCki6q_DkC:
-    citations: 15
+    citations: 16
     title: Blending Imitation and Reinforcement Learning for Robust Policy Improvement
     year: '2023'
   drl-JiIAAAAJ:YOwf2qJgpHMC:
