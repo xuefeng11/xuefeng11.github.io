@@ -1,10 +1,14 @@
 metadata:
-  last_updated: '2026-02-04'
+  last_updated: '2026-02-18'
 papers:
   drl-JiIAAAAJ:3fE2CSJIrl8C:
     citations: 2
     title: A ground-up designed controllable gpt for molecule optimization
     year: '2025'
+  drl-JiIAAAAJ:4TOpqqG69KYC:
+    citations: 0
+    title: Regime-Adaptive Bayesian Optimization via Dirichlet Process Mixtures of Gaussian Processes
+    year: '2026'
   drl-JiIAAAAJ:5nxA0vEk-isC:
     citations: 3
     title: Active Advantage-Aligned Online Reinforcement Learning with Offline Data
@@ -26,11 +30,11 @@ papers:
     title: Bidirectional Hierarchical Protein Multimodal Representation Learning
     year: '2025'
   drl-JiIAAAAJ:Se3iqnhoufwC:
-    citations: 13
-    title: Reflections from the 2024 large language model (llm) hackathon for applications in materials science and chemistry
+    citations: 12
+    title: Reflections from the 2024 large language model (LLM) hackathon for applications in materials science and chemistry
     year: '2024'
   drl-JiIAAAAJ:Tyk-4Ss8FVUC:
-    citations: 20
+    citations: 19
     title: Active Policy Improvement from Multiple Black-box Oracles
     year: '2023'
   drl-JiIAAAAJ:UeHWp8X0CEIC:
@@ -38,21 +42,21 @@ papers:
     title: Contextual Active Online Model Selection with Expert Advice
     year: '2022'
   drl-JiIAAAAJ:UebtZRa9Y70C:
-    citations: 5
+    citations: 4
     title: 'ScaffoldGPT: A Scaffold-based GPT Model for Drug Optimization'
     year: '2025'
   drl-JiIAAAAJ:WF5omc3nYNoC:
-    citations: 10
+    citations: 12
     title: Entropy-Reinforced Planning with Large Language Models for Drug Discovery
     year: '2024'
   drl-JiIAAAAJ:Y0pCki6q_DkC:
-    citations: 16
+    citations: 18
     title: Blending Imitation and Reinforcement Learning for Robust Policy Improvement
     year: '2023'
   drl-JiIAAAAJ:YOwf2qJgpHMC:
     citations: 0
     title: 'CACHE Challenge# 3: Targeting the Nsp3 Macrodomain of SARS-CoV-2'
-    year: '2025'
+    year: '2026'
   drl-JiIAAAAJ:YsMSGLbcyi4C:
     citations: 12
     title: 'DrugImprover: Utilizing Reinforcement Learning for Multi-Objective Alignment in Drug Optimization'
@@ -86,7 +90,7 @@ papers:
     title: Contextual Active Model Selection
     year: '2024'
   drl-JiIAAAAJ:roLk4NBRz8UC:
-    citations: 6
+    citations: 8
     title: 'Binding Affinity Prediction: From Conventional to Machine Learning-Based Approaches'
     year: '2025'
   drl-JiIAAAAJ:u5HHmVD_uO8C:
