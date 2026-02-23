@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-18'
+  last_updated: '2026-02-23'
 papers:
   drl-JiIAAAAJ:3fE2CSJIrl8C:
     citations: 2
@@ -26,11 +26,11 @@ papers:
     title: Leveraging Protein Large Language Models and Graph Neural Networks for Binding Affinity Prediction
     year: '2024'
   drl-JiIAAAAJ:MXK_kJrjxJIC:
-    citations: 3
+    citations: 4
     title: Bidirectional Hierarchical Protein Multimodal Representation Learning
     year: '2025'
   drl-JiIAAAAJ:Se3iqnhoufwC:
-    citations: 12
+    citations: 14
     title: Reflections from the 2024 large language model (LLM) hackathon for applications in materials science and chemistry
     year: '2024'
   drl-JiIAAAAJ:Tyk-4Ss8FVUC:
