@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-23'
+  last_updated: '2026-03-06'
 papers:
   drl-JiIAAAAJ:3fE2CSJIrl8C:
     citations: 2
@@ -25,6 +25,10 @@ papers:
     citations: 0
     title: Leveraging Protein Large Language Models and Graph Neural Networks for Binding Affinity Prediction
     year: '2024'
+  drl-JiIAAAAJ:M3ejUd6NZC8C:
+    citations: 0
+    title: Leveraging Active Reinforcement Learning and Generative Models for Biomolecular Design
+    year: '2026'
   drl-JiIAAAAJ:MXK_kJrjxJIC:
     citations: 4
     title: Bidirectional Hierarchical Protein Multimodal Representation Learning
@@ -58,7 +62,7 @@ papers:
     title: 'CACHE Challenge# 3: Targeting the Nsp3 Macrodomain of SARS-CoV-2'
     year: '2026'
   drl-JiIAAAAJ:YsMSGLbcyi4C:
-    citations: 12
+    citations: 13
     title: 'DrugImprover: Utilizing Reinforcement Learning for Multi-Objective Alignment in Drug Optimization'
     year: '2023'
   drl-JiIAAAAJ:Zph67rFs4hoC:
@@ -78,7 +82,7 @@ papers:
     title: 'APO: Advantage-alignment Policy Optimization for Fine-tuning Generative Models'
     year: '2024'
   drl-JiIAAAAJ:hqOjcs7Dif8C:
-    citations: 5
+    citations: 6
     title: 'DrugImproverGPT: A Large Language Model for Drug Optimization with Fine-Tuning via Structured Policy Optimization'
     year: '2025'
   drl-JiIAAAAJ:kNdYIx-mwKoC:
@@ -86,7 +90,7 @@ papers:
     title: Scaffold-driven gpt model for drug optimization
     year: '2025'
   drl-JiIAAAAJ:qjMakFHDy7sC:
-    citations: 9
+    citations: 10
     title: Contextual Active Model Selection
     year: '2024'
   drl-JiIAAAAJ:roLk4NBRz8UC:
@@ -98,6 +102,6 @@ papers:
     title: 'Targeting SARS-CoV-2 with AI-and HPC-enabled lead generation: A first data release'
     year: '2020'
   drl-JiIAAAAJ:zYLM7Y9cAGgC:
-    citations: 40
+    citations: 41
     title: AI-accelerated protein-ligand docking for SARS-CoV-2 is 100-fold faster with no significant change in detection
     year: '2023'
