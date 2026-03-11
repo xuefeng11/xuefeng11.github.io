@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-03-06'
+  last_updated: '2026-03-11'
 papers:
   drl-JiIAAAAJ:3fE2CSJIrl8C:
     citations: 2
     title: A ground-up designed controllable gpt for molecule optimization
     year: '2025'
   drl-JiIAAAAJ:4TOpqqG69KYC:
-    citations: 0
+    citations: 1
     title: Regime-Adaptive Bayesian Optimization via Dirichlet Process Mixtures of Gaussian Processes
     year: '2026'
   drl-JiIAAAAJ:5nxA0vEk-isC:
@@ -34,7 +34,7 @@ papers:
     title: Bidirectional Hierarchical Protein Multimodal Representation Learning
     year: '2025'
   drl-JiIAAAAJ:Se3iqnhoufwC:
-    citations: 14
+    citations: 15
     title: Reflections from the 2024 large language model (LLM) hackathon for applications in materials science and chemistry
     year: '2024'
   drl-JiIAAAAJ:Tyk-4Ss8FVUC:
