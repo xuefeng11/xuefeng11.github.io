@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-11'
+  last_updated: '2026-03-30'
 papers:
   drl-JiIAAAAJ:3fE2CSJIrl8C:
     citations: 2
@@ -18,7 +18,7 @@ papers:
     title: 'ControllableGPT: A Ground-Up Designed Controllable GPT for Molecule Optimization'
     year: '2025'
   drl-JiIAAAAJ:KlAtU1dfN6UC:
-    citations: 0
+    citations: 1
     title: 'FragmentGPT: A Unified GPT Model for Fragment Growing, Linking, and Merging in Molecular Design'
     year: '2025'
   drl-JiIAAAAJ:LkGwnXOMwfcC:
@@ -34,7 +34,7 @@ papers:
     title: Bidirectional Hierarchical Protein Multimodal Representation Learning
     year: '2025'
   drl-JiIAAAAJ:Se3iqnhoufwC:
-    citations: 15
+    citations: 16
     title: Reflections from the 2024 large language model (LLM) hackathon for applications in materials science and chemistry
     year: '2024'
   drl-JiIAAAAJ:Tyk-4Ss8FVUC:
@@ -54,11 +54,11 @@ papers:
     title: Entropy-Reinforced Planning with Large Language Models for Drug Discovery
     year: '2024'
   drl-JiIAAAAJ:Y0pCki6q_DkC:
-    citations: 18
+    citations: 19
     title: Blending Imitation and Reinforcement Learning for Robust Policy Improvement
     year: '2023'
   drl-JiIAAAAJ:YOwf2qJgpHMC:
-    citations: 0
+    citations: 2
     title: 'CACHE Challenge# 3: Targeting the Nsp3 Macrodomain of SARS-CoV-2'
     year: '2026'
   drl-JiIAAAAJ:YsMSGLbcyi4C:
@@ -94,7 +94,7 @@ papers:
     title: Contextual Active Model Selection
     year: '2024'
   drl-JiIAAAAJ:roLk4NBRz8UC:
-    citations: 8
+    citations: 9
     title: 'Binding Affinity Prediction: From Conventional to Machine Learning-Based Approaches'
     year: '2025'
   drl-JiIAAAAJ:u5HHmVD_uO8C:
@@ -102,6 +102,6 @@ papers:
     title: 'Targeting SARS-CoV-2 with AI-and HPC-enabled lead generation: A first data release'
     year: '2020'
   drl-JiIAAAAJ:zYLM7Y9cAGgC:
-    citations: 41
+    citations: 43
     title: AI-accelerated protein-ligand docking for SARS-CoV-2 is 100-fold faster with no significant change in detection
     year: '2023'
