@@ -32,7 +32,7 @@ latest_posts:
 
 **Research:** My research spans two complementary directions.  
 (1) **Machine Learning Foundations**: I develop theoretically grounded methods in reinforcement learning and generative modeling, integrating active, imitation, and multi-expert learning to improve sample efficiency, policy selection, and exploration–exploitation trade-offs.  
-(2) **AI for Life Sciences**, with a focus on **biomolecular design**, where I integrate biophysical and biological modeling with modern AI—particularly reinforcement learning, generative models, and foundation models—to address the **CURED** challenges: <u>C</u>ontrollability, <u>U</u>nified multimodality, <u>R</u>obustness, <u>E</u>fficiency, and <u>D</u>ependability on biophysical and biological principles in drug discovery and biomolecular design.
+(2) **AI for Life Sciences**, with a focus on **biomolecular design**, where I integrate biophysical and biological modeling with modern AI—particularly reinforcement learning, generative models, and foundation models—to address the **CURED** challenges: <u>C</u>ontrollability, <u>U</u>nified multimodality, <u>R</u>obustness, <u>E</u>fficiency, and <u>D</u>ependability on biophysical and biological principles in disease diagnosis and therapy.
 
 <!-- **Research:** My primary research focuses on two complementary directions.
 (1) **Machine Learning Foundations**: I develop theoretically grounded frameworks in reinforcement learning and advanced generative modeling, integrating active learning, imitation learning, and multi-expert learning to improve sample efficiency, policy selection, and exploration–exploitation trade-offs.
