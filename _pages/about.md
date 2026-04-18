@@ -3,15 +3,15 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-   Postdoc, School of Medicine, <a href="https://www.stanford.edu/">Stanford University</a>, <br> Ph.D., Department of Computer Science, <a href="https://www.uchicago.edu/">University of Chicago (UChicago)</a>,<br> <a href="mailto:xfl@stanford.edu">xfl@stanford.edu (primary)</a>, <a href="mailto:xuefeng@uchicago.edu">xuefeng@uchicago.edu</a>, <a href="mailto:xuefeng.liu@anl.gov">xuefeng.liu@anl.gov</a>
+   Postdoc, School of Medicine, <a href="https://www.stanford.edu/">Stanford University</a> <br> Ph.D., Department of Computer Science, <a href="https://www.uchicago.edu/">University of Chicago (UChicago)</a> <br> <a href="mailto:xfl@stanford.edu">xfl@stanford.edu (primary)</a>, <a href="mailto:xuefeng@uchicago.edu">xuefeng@uchicago.edu</a>, <a href="mailto:xuefeng.liu@anl.gov">xuefeng.liu@anl.gov</a>
 
 profile:
   align: right
   image: prof_pic2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>265 Campus Drive</p>
-    <p>Stanford, CA 94305</p>
+    <p style="text-align: center;">265 Campus Drive</p>
+    <p style="text-align: center;">Stanford, CA 94305</p>
 
   
 
