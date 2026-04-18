@@ -10,8 +10,11 @@ profile:
   image: prof_pic2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p style="text-align: center;">265 Campus Drive</p>
-    <p style="text-align: center;">Stanford, CA 94305</p>
+    <div style="text-align: center; width: 100%;">
+      <p style="margin: 0;">265 Campus Drive</p>
+      <p style="margin: 0;">Stanford, CA 94305</p>
+    </div>
+
 
   
 
