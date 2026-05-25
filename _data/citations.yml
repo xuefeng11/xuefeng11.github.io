@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-15'
+  last_updated: '2026-05-25'
 papers:
   drl-JiIAAAAJ:3fE2CSJIrl8C:
     citations: 2
@@ -10,7 +10,7 @@ papers:
     title: Regime-Adaptive Bayesian Optimization via Dirichlet Process Mixtures of Gaussian Processes
     year: '2026'
   drl-JiIAAAAJ:5nxA0vEk-isC:
-    citations: 4
+    citations: 6
     title: Active Advantage-Aligned Online Reinforcement Learning with Offline Data
     year: '2025'
   drl-JiIAAAAJ:8k81kl-MbHgC:
@@ -18,7 +18,7 @@ papers:
     title: 'ControllableGPT: A Ground-Up Designed Controllable GPT for Molecule Optimization'
     year: '2025'
   drl-JiIAAAAJ:KlAtU1dfN6UC:
-    citations: 1
+    citations: 0
     title: 'FragmentGPT: A Unified GPT Model for Fragment Growing, Linking, and Merging in Molecular Design'
     year: '2025'
   drl-JiIAAAAJ:LkGwnXOMwfcC:
@@ -93,6 +93,10 @@ papers:
     citations: 10
     title: Contextual Active Model Selection
     year: '2024'
+  drl-JiIAAAAJ:qxL8FJ1GzNcC:
+    citations: 0
+    title: 'Protein Thoughts: Interpretable Reasoning with Tree of Thoughts and Embedding-Space Flow Matching for Protein-Protein Interaction Discovery'
+    year: '2026'
   drl-JiIAAAAJ:roLk4NBRz8UC:
     citations: 9
     title: 'Binding Affinity Prediction: From Conventional to Machine Learning-Based Approaches'
