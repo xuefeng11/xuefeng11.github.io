@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-25'
+  last_updated: '2026-05-29'
 papers:
   drl-JiIAAAAJ:3fE2CSJIrl8C:
     citations: 2
@@ -18,7 +18,7 @@ papers:
     title: 'ControllableGPT: A Ground-Up Designed Controllable GPT for Molecule Optimization'
     year: '2025'
   drl-JiIAAAAJ:KlAtU1dfN6UC:
-    citations: 0
+    citations: 1
     title: 'FragmentGPT: A Unified GPT Model for Fragment Growing, Linking, and Merging in Molecular Design'
     year: '2025'
   drl-JiIAAAAJ:LkGwnXOMwfcC:
@@ -34,7 +34,7 @@ papers:
     title: Bidirectional Hierarchical Protein Multimodal Representation Learning
     year: '2025'
   drl-JiIAAAAJ:Se3iqnhoufwC:
-    citations: 18
+    citations: 19
     title: Reflections from the 2024 large language model (LLM) hackathon for applications in materials science and chemistry
     year: '2024'
   drl-JiIAAAAJ:Tyk-4Ss8FVUC:
@@ -62,11 +62,11 @@ papers:
     title: 'CACHE Challenge# 3: Targeting the Nsp3 Macrodomain of SARS-CoV-2'
     year: '2026'
   drl-JiIAAAAJ:YsMSGLbcyi4C:
-    citations: 13
+    citations: 14
     title: 'DrugImprover: Utilizing Reinforcement Learning for Multi-Objective Alignment in Drug Optimization'
     year: '2023'
   drl-JiIAAAAJ:Zph67rFs4hoC:
-    citations: 1
+    citations: 2
     title: Monte Carlo Tree Diffusion with Multiple Experts for Protein Design
     year: '2025'
   drl-JiIAAAAJ:_FxGoFyzp5QC:
@@ -74,7 +74,7 @@ papers:
     title: 'Learning from Imperfect Human Feedback: a Tale from Corruption-Robust Dueling'
     year: '2024'
   drl-JiIAAAAJ:_kc_bZDykSQC:
-    citations: 0
+    citations: 1
     title: Multi-Objective Coverage via Constraint Active Search
     year: '2025'
   drl-JiIAAAAJ:eQOLeE2rZwMC:
@@ -98,7 +98,7 @@ papers:
     title: 'Protein Thoughts: Interpretable Reasoning with Tree of Thoughts and Embedding-Space Flow Matching for Protein-Protein Interaction Discovery'
     year: '2026'
   drl-JiIAAAAJ:roLk4NBRz8UC:
-    citations: 9
+    citations: 10
     title: 'Binding Affinity Prediction: From Conventional to Machine Learning-Based Approaches'
     year: '2025'
   drl-JiIAAAAJ:u5HHmVD_uO8C:
