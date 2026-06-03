@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-01'
+  last_updated: '2026-06-03'
 papers:
   drl-JiIAAAAJ:3fE2CSJIrl8C:
     citations: 2
@@ -34,7 +34,7 @@ papers:
     title: Bidirectional Hierarchical Protein Multimodal Representation Learning
     year: '2025'
   drl-JiIAAAAJ:Se3iqnhoufwC:
-    citations: 18
+    citations: 19
     title: Reflections from the 2024 large language model (LLM) hackathon for applications in materials science and chemistry
     year: '2024'
   drl-JiIAAAAJ:Tyk-4Ss8FVUC:
@@ -58,7 +58,7 @@ papers:
     title: Blending Imitation and Reinforcement Learning for Robust Policy Improvement
     year: '2023'
   drl-JiIAAAAJ:YOwf2qJgpHMC:
-    citations: 4
+    citations: 5
     title: 'CACHE Challenge# 3: Targeting the Nsp3 Macrodomain of SARS-CoV-2'
     year: '2026'
   drl-JiIAAAAJ:YsMSGLbcyi4C:
