@@ -46,16 +46,17 @@ My research interests include, but are not limited to:
   - RL in pretraining, post-training, decoding
   - Reasoning, planning, and decision-making under uncertainty
 
-- **Generative AI and Foundation Models**
-  - Generative modeling for biomolecular design and beyond
-
 - **Agentic AI for Scientific Discovery**
   - Multimodal reasoning systems for autonomous scientific discovery
 
+- **Generative AI and Foundation Models**
+  - Generative modeling for biomedicine and beyond
+  
 - **Scientific Machine Learning**
   - Physics- and Biology-informed machine learning
 
 - **Human-AI co-scientist**
+  - AI-Human-Robot Co-Scientist
 
 <!-- - **Multimodal Machine Learning**
   - Multimodal representation learning for biological systems   -->
@@ -70,9 +71,10 @@ My research interests include, but are not limited to:
 
 **Open Opportunities:**
 
-**[Recruiting]** Starting in Fall 2026, I will join the University of Florida as a tenure-track Assistant Professor, and I am actively recruiting PhD students and postdoctoral researchers. I am looking for highly motivated candidates with a strong passion for methodological research, solid mathematical foundations, and excellent coding skills. Please send your CV, a brief summary of your research experience, and a description of your research interests to <a href="mailto:xuefeng.liu@ufl.edu">xuefeng.liu@ufl.edu</a>.
+**[Recruiting]** Starting in Fall 2026, I will join the University of Florida as a tenure-track Assistant Professor, and I am actively recruiting PhD students and Postdoc researchers. I am looking for highly motivated candidates with a passion for research and solid mathematical foundations; coding skills are a plus. Please send your CV, a brief summary of your research experience, and a description of your research interests to <a href="mailto:xuefeng.liu@ufl.edu">xuefeng.liu@ufl.edu</a>.
 
-**[Research Students]** I have open research opportunities—feel free to email me if you are interested! Candidates are expected to have earned an A- or A in Machine Learning, Artificial Intelligence, or a related course.
+
+**[Research Students]** I have open research opportunities—feel free to email me if you are interested! Candidates are expected to have earned an A- or A in Deep Learning, or a related course.
 
 **Teaching:**
 
