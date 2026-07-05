@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-   Incoming tenure-track Assistant Professor, <a href="https://www.ufl.edu/">University of Florida</a> <br> Postdoc, School of Medicine, <a href="https://www.stanford.edu/">Stanford University</a> <br> Ph.D., Department of Computer Science, <a href="https://www.uchicago.edu/">University of Chicago</a> <br> <a href="mailto:xfl@stanford.edu">xfl@stanford.edu (primary)</a>, <a href="mailto:xuefeng@uchicago.edu">xuefeng@uchicago.edu</a>, <a href="mailto:xuefeng.liu@anl.gov">xuefeng.liu@anl.gov</a>
+   Incoming tenure-track Assistant Professor, <a href="https://www.ufl.edu/">University of Florida</a> <br> Postdoc, School of Medicine, <a href="https://www.stanford.edu/">Stanford University</a> <br> Ph.D., Department of Computer Science, <a href="https://www.uchicago.edu/">University of Chicago</a> <br> <a href="mailto:xuefeng.liu@ufl.edu">xuefeng.liu@ufl.edu</a>, <a href="mailto:xfl@stanford.edu">xfl@stanford.edu (primary)</a>, <a href="mailto:xuefeng@uchicago.edu">xuefeng@uchicago.edu</a>
 
 profile:
   align: right
