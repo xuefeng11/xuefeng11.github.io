@@ -37,7 +37,7 @@ latest_posts:
 
 - **Machine Learning Foundations**: I develop practically driven, theoretically grounded methods in reinforcement learning, generative modeling and Agentic AI.
 
-- **AI for Life Sciences**: I integrate biophysical and biological modeling with advanced AI to address the **CURED** challenges — <u>C</u>ontrollability, <u>U</u>nified multimodality, <u>R</u>obustness, <u>E</u>fficiency, and <u>D</u>ependability on biophysical and biological principles — in disease diagnosis and therapy.
+- **AI for Life Sciences**: I integrate biomedical modeling with advanced AI to address the **CURED** challenges — <u>C</u>ontrollability, <u>U</u>nified multimodality, <u>R</u>obustness, <u>E</u>fficiency, and <u>D</u>ependability on biophysical and biological principles — in disease diagnosis and therapy.
 
 My research interests include, but are not limited to:
 
