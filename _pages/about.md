@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-   Postdoc, School of Medicine, <a href="https://www.stanford.edu/">Stanford University</a> <br> Ph.D., Department of Computer Science, <a href="https://www.uchicago.edu/">University of Chicago</a> <br> <a href="mailto:xfl@stanford.edu">xfl@stanford.edu (primary)</a>, <a href="mailto:xuefeng@uchicago.edu">xuefeng@uchicago.edu</a>, <a href="mailto:xuefeng.liu@anl.gov">xuefeng.liu@anl.gov</a>
+   Incoming tenure-track Assistant Professor, <a href="https://www.ufl.edu/">University of Florida</a> <br> Postdoc, School of Medicine, <a href="https://www.stanford.edu/">Stanford University</a> <br> Ph.D., Department of Computer Science, <a href="https://www.uchicago.edu/">University of Chicago</a> <br> <a href="mailto:xfl@stanford.edu">xfl@stanford.edu (primary)</a>, <a href="mailto:xuefeng@uchicago.edu">xuefeng@uchicago.edu</a>, <a href="mailto:xuefeng.liu@anl.gov">xuefeng.liu@anl.gov</a>
 
 profile:
   align: right
@@ -76,7 +76,7 @@ My research interests include, but are not limited to:
 <a href="https://computerscience.uchicago.edu/people/rick-stevens/">Prof. Rick L. Stevens</a>,
 with co-advisors <a href="https://yuxinchen.org/">Prof. Yuxin Chen</a> and <a href="https://home.ttic.edu/~jinbo/">Prof. Jinbo Xu</a>, and mentorship from <a href="https://sosnick.uchicago.edu/">Prof. Tobin R. Sosnick</a>. I also serve as a research associate at <a href="https://www.anl.gov/">Argonne National Laboratory</a>, where my work focuses on AI for Life Sciences.
 
-Starting in Fall 2026, I will join the University of Florida as a tenure-track Assistant Professor. I am actively recruiting undergraduate, master’s, and PhD students, as well as postdoctoral researchers. I am looking for highly motivated candidates with a strong passion for methodological research, solid mathematical foundations, and excellent coding skills. Please send your CV, a brief summary of your research experience, and a description of your research interests to xuefeng.liu@ufl.edu.
+Starting in Fall 2026, I will join the University of Florida as a tenure-track Assistant Professor. I am actively recruiting undergraduate, master’s, and PhD students, as well as postdoctoral researchers. I am looking for highly motivated candidates with a strong passion for methodological research, solid mathematical foundations, and excellent coding skills. Please send your CV, a brief summary of your research experience, and a description of your research interests to <a href="mailto:xuefeng.liu@ufl.edu ">xuefeng.liu@ufl.edu</a>.
 
 
 
