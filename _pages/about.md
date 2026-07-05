@@ -73,7 +73,7 @@ My research interests include, but are not limited to:
 
 ***Open Opportunities:***
 
-**[Recruiting]** Starting in Fall 2026, I will join the University of Florida as a tenure-track Assistant Professor, and I am actively recruiting **PhD students and Postdoc researchers**. I am looking for highly motivated candidates with a passion for research and strong coding skills; solid mathematical foundations are a plus. Please send your CV, a brief summary of your research experience, and a description of your research interests to <a href="mailto:xuefeng.liu@ufl.edu">xuefeng.liu@ufl.edu</a>.
+**[Recruiting]** Starting in Fall 2026, I will join the University of Florida as a tenure-track Assistant Professor, and I am **actively recruiting PhD students and Postdoc researchers**. I am looking for highly motivated candidates with a passion for research and strong coding skills; solid mathematical foundations are a plus. Please send your CV, a brief summary of your research experience, and a description of your research interests to <a href="mailto:xuefeng.liu@ufl.edu">xuefeng.liu@ufl.edu</a>.
 
 
 **[Research Students]** I have open research opportunities—feel free to email me if you are interested! Candidates are expected to have earned an A- or A in Deep Learning, or a related course.
