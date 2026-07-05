@@ -58,7 +58,7 @@ My research interests include, but are not limited to:
   - Physics- and Biology-informed machine learning
 
 - **Human-AI co-scientist**
-  - AI-Human-Robot Co-Scientist
+  - Human-AI-Robot Co-Scientist
 
 <!-- - **Multimodal Machine Learning**
   - Multimodal representation learning for biological systems   -->
