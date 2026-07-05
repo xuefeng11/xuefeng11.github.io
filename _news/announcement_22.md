@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- Our paper <a href="{{ '/publications/#liu2024entropy' | relative_url }}">Entropy-Reinforced Planning with Large Language Models for Drug Discovery</a> is accepted by **ICML 2024**.
+- Our paper "Entropy-Reinforced Planning with Large Language Models for Drug Discovery" is accepted by **ICML 2024**.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- Our paper <a href="{{ '/publications/#liu2024leveraging' | relative_url }}">Leveraging Protein Large Language Models and Graph Neural Networks for Binding Affinity Prediction</a> is presented at the **ICML 2024 Machine Learning for Life and Material Science Workshop**.
+- Our paper "Leveraging Protein Large Language Models and Graph Neural Networks for Binding Affinity Prediction" is presented at the **ICML 2024 Machine Learning for Life and Material Science Workshop**.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- Our paper <a href="{{ '/publications/#liu2025bidirectional' | relative_url }}">Bidirectional Hierarchical Protein Multi-Modal Representation Learning</a> is accepted by **MLHC 2025**.
+- Our paper "Bidirectional Hierarchical Protein Multi-Modal Representation Learning" is accepted by **MLHC 2025**.

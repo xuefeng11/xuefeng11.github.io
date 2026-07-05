@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- Our paper <a href="{{ '/publications/#liu2023blending' | relative_url }}">Blending Imitation and Reinforcement Learning for Robust Policy Improvement</a> is accepted by **ICLR 2023** as a **spotlight presentation**.
+- Our paper "Blending Imitation and Reinforcement Learning for Robust Policy Improvement" is accepted by **ICLR 2023** as a **spotlight presentation**.

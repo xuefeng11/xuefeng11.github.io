@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- Our paper <a href="{{ '/publications/#liu2025ground' | relative_url }}">A Ground-Up Designed Controllable GPT for Molecule Optimization</a> is presented at the **ICML 2025 Generative AI and Biology Workshop**.
+- Our paper "A Ground-Up Designed Controllable GPT for Molecule Optimization" is presented at the **ICML 2025 Generative AI and Biology Workshop**.

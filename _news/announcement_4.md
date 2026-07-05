@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- Our paper DrugImproverGPT: GPT-Driven Drug Optimization with Structured Policy Optimization Post-training is accepted by **Machine Learning for Healthcare (MLHC) 2026**! Thanks to my collaborators Songhao, Siyu, Zhuoran, Yuxin, Ian, and Rick!
+- Our paper "DrugImproverGPT: GPT-Driven Drug Optimization with Structured Policy Optimization Post-training" is accepted by **Machine Learning for Healthcare (MLHC) 2026**! Thanks to my collaborators Songhao, Siyu, Zhuoran, Yuxin, Ian, and Rick!

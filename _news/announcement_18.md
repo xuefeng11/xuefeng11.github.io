@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- Our preprint <a href="{{ '/publications/#liu2025controllablegpt' | relative_url }}">ControllableGPT: A Ground-Up Designed Controllable GPT for Molecule Optimization</a> is posted on arXiv.
+- Our preprint "ControllableGPT: A Ground-Up Designed Controllable GPT for Molecule Optimization" is posted on arXiv.

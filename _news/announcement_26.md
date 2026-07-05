@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- Our paper <a href="{{ '/publications/#liu2023drugimprover' | relative_url }}">DRUGIMPROVER: Utilizing Reinforcement Learning for Multi-Objective Alignment in Drug Optimization</a> is selected as an **oral presentation** at the **NeurIPS 2023 Workshop on New Frontiers of AI for Drug Discovery and Development**.
+- Our paper "DRUGIMPROVER: Utilizing Reinforcement Learning for Multi-Objective Alignment in Drug Optimization" is selected as an **oral presentation** at the **NeurIPS 2023 Workshop on New Frontiers of AI for Drug Discovery and Development**.

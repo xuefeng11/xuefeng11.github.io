@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- Our paper <a href="{{ '/publications/#liu2025active' | relative_url }}">Active Advantage-Aligned Online Reinforcement Learning with Offline Data</a> is presented at the **ICML 2025 Exploration in AI Today Workshop**.
+- Our paper "Active Advantage-Aligned Online Reinforcement Learning with Offline Data" is presented at the **ICML 2025 Exploration in AI Today Workshop**.

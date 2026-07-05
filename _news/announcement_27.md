@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- Our paper <a href="{{ '/publications/#liu2023active' | relative_url }}">Active Policy Improvement from Multiple Black-Box Oracles</a> is accepted by **ICML 2023**.
+- Our paper "Active Policy Improvement from Multiple Black-Box Oracles" is accepted by **ICML 2023**.

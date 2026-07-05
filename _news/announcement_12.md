@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- Our paper <a href="{{ '/publications/#liu2025monte' | relative_url }}">Monte Carlo Tree Diffusion with Multiple Experts for Protein Design</a> is presented at the **NeurIPS 2025 Workshop on AI Virtual Cells and Instruments**.
+- Our paper "Monte Carlo Tree Diffusion with Multiple Experts for Protein Design" is presented at the **NeurIPS 2025 Workshop on AI Virtual Cells and Instruments**.

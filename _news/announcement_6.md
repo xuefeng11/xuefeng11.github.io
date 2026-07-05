@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- Our paper <a href="{{ '/publications/#zhang2026regime' | relative_url }}">Regime-Adaptive Bayesian Optimization via Dirichlet Process Mixtures of Gaussian Processes</a> is accepted by **ICML 2026**.
+- Our paper "Regime-Adaptive Bayesian Optimization via Dirichlet Process Mixtures of Gaussian Processes" is accepted by **ICML 2026**.
