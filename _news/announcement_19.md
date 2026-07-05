@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- Our preprint "Reflections from the 2024 Large Language Model (LLM) Hackathon for Applications in Materials Science and Chemistry" is posted on arXiv.
+- Our preprint &quot;Reflections from the 2024 Large Language Model (LLM) Hackathon for Applications in Materials Science and Chemistry&quot; is posted on arXiv.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- My Ph.D. thesis "Leveraging Active Reinforcement Learning and Generative Models for Biomolecular Design" is completed at the University of Chicago.
+- My Ph.D. thesis &quot;Leveraging Active Reinforcement Learning and Generative Models for Biomolecular Design&quot; is completed at the University of Chicago.

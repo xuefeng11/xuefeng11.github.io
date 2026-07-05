@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- Our preprint "Active-GRPO: Adaptive Imitation and Self-Improving Reasoning for Molecular Optimization" is posted on arXiv.
+- Our preprint &quot;Active-GRPO: Adaptive Imitation and Self-Improving Reasoning for Molecular Optimization&quot; is posted on arXiv.

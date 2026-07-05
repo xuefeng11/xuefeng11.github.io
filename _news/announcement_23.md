@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- Our paper "Learning from Imperfect Human Feedback: A Tale from Corruption-Robust Dueling" is accepted by **ICLR 2024** and received the **Best Poster Award** at Midwest ML Symposium 2024.
+- Our paper &quot;Learning from Imperfect Human Feedback: A Tale from Corruption-Robust Dueling&quot; is accepted by **ICLR 2024** and received the **Best Poster Award** at Midwest ML Symposium 2024.

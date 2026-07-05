@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- Our paper "ScaffoldGPT: A Scaffold-based GPT Model for Drug Optimization" is accepted by **MLHC 2025**.
+- Our paper &quot;ScaffoldGPT: A Scaffold-based GPT Model for Drug Optimization&quot; is accepted by **MLHC 2025**.

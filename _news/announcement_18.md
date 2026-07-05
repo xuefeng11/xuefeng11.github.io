@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- Our preprint "ControllableGPT: A Ground-Up Designed Controllable GPT for Molecule Optimization" is posted on arXiv.
+- Our preprint &quot;ControllableGPT: A Ground-Up Designed Controllable GPT for Molecule Optimization&quot; is posted on arXiv.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- Our preprint "Binding Affinity Prediction: From Conventional to Machine Learning-Based Approaches" is posted on arXiv.
+- Our preprint &quot;Binding Affinity Prediction: From Conventional to Machine Learning-Based Approaches&quot; is posted on arXiv.

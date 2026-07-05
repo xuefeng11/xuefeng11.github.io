@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- Our paper "Scaffold-Driven GPT Model for Drug Optimization" is presented at the **ICML 2025 Generative AI and Biology Workshop**.
+- Our paper &quot;Scaffold-Driven GPT Model for Drug Optimization&quot; is presented at the **ICML 2025 Generative AI and Biology Workshop**.

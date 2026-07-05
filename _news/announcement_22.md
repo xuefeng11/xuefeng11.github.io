@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- Our paper "Entropy-Reinforced Planning with Large Language Models for Drug Discovery" is accepted by **ICML 2024**.
+- Our paper &quot;Entropy-Reinforced Planning with Large Language Models for Drug Discovery&quot; is accepted by **ICML 2024**.
