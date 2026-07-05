@@ -71,13 +71,13 @@ My research interests include, but are not limited to:
 
 **About Me:** I am a Postdoctoral Fellow at School of Medicine, <a href="https://www.stanford.edu/">Stanford University</a>, working with <a href="https://www.stanford.edu/">Prof. Le Cong</a> and <a href="https://www.princeton.edu/">Prof. Mengdi Wang (Princeton)</a>. Before joining Stanford, I received my Ph.D. in Computer Science from <a href="https://www.uchicago.edu/">University of Chicago</a>, where I was advised by <a href="https://computerscience.uchicago.edu/people/rick-stevens/">Prof. Rick L. Stevens</a>, with co-advisors <a href="https://yuxinchen.org/">Prof. Yuxin Chen</a> and <a href="https://home.ttic.edu/~jinbo/">Prof. Jinbo Xu</a>, and mentorship from <a href="https://sosnick.uchicago.edu/">Prof. Tobin R. Sosnick</a>. I also served as a Research Associate at <a href="https://www.anl.gov/">Argonne National Laboratory</a>, where my work focuses on AI for Life Sciences.
 
-**Open Opportunities:**
+***Open Opportunities:***
 
 **[Recruiting]** Starting in Fall 2026, I will join the University of Florida as a tenure-track Assistant Professor, and I am actively recruiting PhD students and Postdoc researchers. I am looking for highly motivated candidates with a passion for research and solid mathematical foundations; coding skills are a plus. Please send your CV, a brief summary of your research experience, and a description of your research interests to <a href="mailto:xuefeng.liu@ufl.edu">xuefeng.liu@ufl.edu</a>.
 
 
 **[Research Students]** I have open research opportunities—feel free to email me if you are interested! Candidates are expected to have earned an A- or A in Deep Learning, or a related course.
 
-**Teaching:**
+***Teaching:***
 
 **[CAI 6734]** Applied Generative AI in Medicine — Fall 2026
