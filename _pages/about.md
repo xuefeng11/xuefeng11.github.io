@@ -19,7 +19,7 @@ profile:
   
 
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -72,9 +72,15 @@ My research interests include, but are not limited to:
 
 ---
 
-**About Me:** I am a Postdoctoral Fellow at the School of Medicine, <a href="https://www.stanford.edu/">Stanford University</a>. I received my Ph.D. in Computer Science from <a href="https://www.uchicago.edu/">University of Chicago</a>, where I was advised by
+**About Me:** I am a Postdoctoral Fellow at the School of Medicine, <a href="https://www.stanford.edu/">Stanford University</a>, working with Prof. Le Cong (<a href="https://www.stanford.edu/">Stanford</a>) and Prof. Mengdi Wang (<a href="https://www.princeton.edu/">Princeton</a>). Before joining Stanford, I received my Ph.D. in Computer Science from <a href="https://www.uchicago.edu/">University of Chicago</a>, where I was advised by
 <a href="https://computerscience.uchicago.edu/people/rick-stevens/">Prof. Rick L. Stevens</a>,
 with co-advisors <a href="https://yuxinchen.org/">Prof. Yuxin Chen</a> and <a href="https://home.ttic.edu/~jinbo/">Prof. Jinbo Xu</a>, and mentorship from <a href="https://sosnick.uchicago.edu/">Prof. Tobin R. Sosnick</a>. I also serve as a research associate at <a href="https://www.anl.gov/">Argonne National Laboratory</a>, where my work focuses on AI for Life Sciences.
+
+Starting in Fall 2026, I will join the University of Florida as a tenure-track Assistant Professor. I am actively recruiting undergraduate, master’s, and PhD students, as well as postdoctoral researchers. I am looking for highly motivated candidates with a strong passion for methodological research, solid mathematical foundations, and excellent coding skills. Please send your CV, a brief summary of your research experience, and a description of your research interests to xuefeng.liu@ufl.edu.
+
+
+
+
 
 <!-- ## Research
 
