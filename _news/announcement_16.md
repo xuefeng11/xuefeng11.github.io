@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- Our paper <a href="{{ '/publications/#liu2025scaffold' | relative_url }}"><strong><em>Scaffold-Driven GPT Model for Drug Optimization</em></strong></a> is presented at the **ICML 2025 Generative AI and Biology Workshop**.
+- Our paper <a href="{{ '/publications/#liu2025scaffold' | relative_url }}">Scaffold-Driven GPT Model for Drug Optimization</a> is presented at the **ICML 2025 Generative AI and Biology Workshop**.

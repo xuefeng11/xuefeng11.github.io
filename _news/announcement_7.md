@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- Our preprint <a href="{{ '/publications/#yeon2026protein' | relative_url }}"><strong><em>Protein Thoughts: Interpretable Reasoning with Tree of Thoughts and Embedding-Space Flow Matching for Protein-Protein Interaction Discovery</em></strong></a> is posted on arXiv.
+- Our preprint <a href="{{ '/publications/#yeon2026protein' | relative_url }}">Protein Thoughts: Interpretable Reasoning with Tree of Thoughts and Embedding-Space Flow Matching for Protein-Protein Interaction Discovery</a> is posted on arXiv.

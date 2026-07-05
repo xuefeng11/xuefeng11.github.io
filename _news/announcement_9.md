@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- Our paper <a href="{{ '/publications/#herasymenko2026cache' | relative_url }}"><strong><em>CACHE Challenge# 3: Targeting the Nsp3 Macrodomain of SARS-CoV-2</em></strong></a> is published in **Journal of Chemical Information and Modeling**.
+- Our paper <a href="{{ '/publications/#herasymenko2026cache' | relative_url }}">CACHE Challenge# 3: Targeting the Nsp3 Macrodomain of SARS-CoV-2</a> is published in **Journal of Chemical Information and Modeling**.

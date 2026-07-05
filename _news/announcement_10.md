@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- Our paper <a href="{{ '/publications/#Siam2025multi' | relative_url }}"><strong><em>Multi-Objective Coverage via Constraint Active Search</em></strong></a> is accepted by **AAMAS 2026** as an oral presentation.
+- Our paper <a href="{{ '/publications/#Siam2025multi' | relative_url }}">Multi-Objective Coverage via Constraint Active Search</a> is accepted by **AAMAS 2026** as an **oral presentation**.

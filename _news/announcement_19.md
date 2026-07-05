@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- Our preprint <a href="{{ '/publications/#zimmermann2024reflections' | relative_url }}"><strong><em>Reflections from the 2024 Large Language Model (LLM) Hackathon for Applications in Materials Science and Chemistry</em></strong></a> is posted on arXiv.
+- Our preprint <a href="{{ '/publications/#zimmermann2024reflections' | relative_url }}">Reflections from the 2024 Large Language Model (LLM) Hackathon for Applications in Materials Science and Chemistry</a> is posted on arXiv.

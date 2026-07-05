@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- Our preprint <a href="{{ '/publications/#liu2024binding' | relative_url }}"><strong><em>Binding Affinity Prediction: From Conventional to Machine Learning-Based Approaches</em></strong></a> is posted on arXiv.
+- Our preprint <a href="{{ '/publications/#liu2024binding' | relative_url }}">Binding Affinity Prediction: From Conventional to Machine Learning-Based Approaches</a> is posted on arXiv.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- Our preprint <a href="{{ '/publications/#liu2026active' | relative_url }}"><strong><em>Active-GRPO: Adaptive Imitation and Self-Improving Reasoning for Molecular Optimization</em></strong></a> is posted on arXiv.
+- Our preprint <a href="{{ '/publications/#liu2026active' | relative_url }}">Active-GRPO: Adaptive Imitation and Self-Improving Reasoning for Molecular Optimization</a> is posted on arXiv.

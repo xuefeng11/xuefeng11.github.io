@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- Our paper <a href="{{ '/publications/#liu2025scaffoldgpt' | relative_url }}"><strong><em>ScaffoldGPT: A Scaffold-based GPT Model for Drug Optimization</em></strong></a> is accepted by **MLHC 2025**.
+- Our paper <a href="{{ '/publications/#liu2025scaffoldgpt' | relative_url }}">ScaffoldGPT: A Scaffold-based GPT Model for Drug Optimization</a> is accepted by **MLHC 2025**.
