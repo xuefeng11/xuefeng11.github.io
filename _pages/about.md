@@ -33,20 +33,20 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-**Research:** My research spans two complementary directions.  
-(1) **Machine Learning Foundations**: I develop theoretically grounded methods in reinforcement learning and generative modeling, integrating active, imitation, and multi-expert learning to improve sample efficiency, policy selection, and exploration–exploitation trade-offs.  
-(2) **AI for Life Sciences**, with a focus on **biomolecular design**, where I integrate biophysical and biological modeling with modern AI—particularly reinforcement learning, generative models, and foundation models—to address the **CURED** challenges: <u>C</u>ontrollability, <u>U</u>nified multimodality, <u>R</u>obustness, <u>E</u>fficiency, and <u>D</u>ependability on biophysical and biological principles in disease diagnosis and therapy.
+**Research:** My research spans two complementary directions.
+(1) **Machine Learning Foundations**: I develop practically driven, theoretically grounded methods in reinforcement learning, generative modeling and Agentic AI.
+(2) **AI for Life Sciences**: I integrate biophysical and biological modeling with advanced AI to address the **CURED** challenges — <u>C</u>ontrollability, <u>U</u>nified multimodality, <u>R</u>obustness, <u>E</u>fficiency, and <u>D</u>ependability on biophysical and biological principles — in disease diagnosis and therapy.
 
 My research interests include, but are not limited to:
 
 - **AI for Life Sciences**
-  - Biomolecular design, drug discovery, biomarker discovery, binding affinity prediction, lead discovery and optimization
+  - Biomolecular design, drug discovery, biomarker discovery, lead discovery and optimization
 
 - **Reinforcement Learning**
   - RL in pretraining, post-training, decoding
   - Reasoning, planning, and decision-making under uncertainty
 
-- **Generative and Foundation Models**
+- **Generative AI and Foundation Models**
   - Generative modeling for biomolecular design and beyond
 
 - **Agentic AI for Scientific Discovery**
@@ -54,6 +54,8 @@ My research interests include, but are not limited to:
 
 - **Scientific Machine Learning**
   - Physics- and Biology-informed machine learning
+
+- **Human-AI co-scientist**
 
 <!-- - **Multimodal Machine Learning**
   - Multimodal representation learning for biological systems   -->
@@ -66,12 +68,12 @@ My research interests include, but are not limited to:
 
 **About Me:** I am a Postdoctoral Fellow at School of Medicine, <a href="https://www.stanford.edu/">Stanford University</a>, working with <a href="https://www.stanford.edu/">Prof. Le Cong</a> and <a href="https://www.princeton.edu/">Prof. Mengdi Wang (Princeton)</a>. Before joining Stanford, I received my Ph.D. in Computer Science from <a href="https://www.uchicago.edu/">University of Chicago</a>, where I was advised by <a href="https://computerscience.uchicago.edu/people/rick-stevens/">Prof. Rick L. Stevens</a>, with co-advisors <a href="https://yuxinchen.org/">Prof. Yuxin Chen</a> and <a href="https://home.ttic.edu/~jinbo/">Prof. Jinbo Xu</a>, and mentorship from <a href="https://sosnick.uchicago.edu/">Prof. Tobin R. Sosnick</a>. I also served as a Research Associate at <a href="https://www.anl.gov/">Argonne National Laboratory</a>, where my work focuses on AI for Life Sciences.
 
-**Open Opportunities**
+**Open Opportunities:**
 
 **[Recruiting]** Starting in Fall 2026, I will join the University of Florida as a tenure-track Assistant Professor, and I am actively recruiting PhD students and postdoctoral researchers. I am looking for highly motivated candidates with a strong passion for methodological research, solid mathematical foundations, and excellent coding skills. Please send your CV, a brief summary of your research experience, and a description of your research interests to <a href="mailto:xuefeng.liu@ufl.edu">xuefeng.liu@ufl.edu</a>.
 
 **[Research Students]** I have open research opportunities—feel free to email me if you are interested! Candidates are expected to have earned an A- or A in Machine Learning, Artificial Intelligence, or a related course.
 
-**Teaching**
+**Teaching:**
 
 **[CAI 6734]** Applied Generative AI in Medicine — Fall 2026
