@@ -1,10 +1,14 @@
 metadata:
-  last_updated: '2026-06-19'
+  last_updated: '2026-07-15'
 papers:
   drl-JiIAAAAJ:3fE2CSJIrl8C:
     citations: 2
     title: A ground-up designed controllable gpt for molecule optimization
     year: '2025'
+  drl-JiIAAAAJ:4DMP91E08xMC:
+    citations: 0
+    title: 'Active-GRPO: Adaptive Imitation and Self-Improving Reasoning for Molecular Optimization'
+    year: '2026'
   drl-JiIAAAAJ:4TOpqqG69KYC:
     citations: 0
     title: Regime-Adaptive Bayesian Optimization via Dirichlet Process Mixtures of Gaussian Processes
@@ -14,7 +18,7 @@ papers:
     title: Active Advantage-Aligned Online Reinforcement Learning with Offline Data
     year: '2025'
   drl-JiIAAAAJ:8k81kl-MbHgC:
-    citations: 3
+    citations: 4
     title: 'ControllableGPT: A Ground-Up Designed Controllable GPT for Molecule Optimization'
     year: '2025'
   drl-JiIAAAAJ:KlAtU1dfN6UC:
@@ -58,7 +62,7 @@ papers:
     title: Blending Imitation and Reinforcement Learning for Robust Policy Improvement
     year: '2023'
   drl-JiIAAAAJ:YOwf2qJgpHMC:
-    citations: 5
+    citations: 7
     title: 'CACHE Challenge# 3: Targeting the Nsp3 Macrodomain of SARS-CoV-2'
     year: '2026'
   drl-JiIAAAAJ:YsMSGLbcyi4C:
@@ -77,14 +81,18 @@ papers:
     citations: 1
     title: Multi-Objective Coverage via Constraint Active Search
     year: '2025'
+  drl-JiIAAAAJ:aqlVkmm33-oC:
+    citations: 0
+    title: "Experimental Bioengineering Laboratory Report - Bioanalytical Characterization of Small Molecules, Biomaterials, Proteins, and Nanoparticles Using UV\u2013Vis, HPLC, ELISA, and DLS"
+    year: '2026'
   drl-JiIAAAAJ:eQOLeE2rZwMC:
     citations: 0
     title: 'APO: Advantage-alignment Policy Optimization for Fine-tuning Generative Models'
     year: '2024'
   drl-JiIAAAAJ:hqOjcs7Dif8C:
     citations: 6
-    title: 'DrugImproverGPT: A Large Language Model for Drug Optimization with Fine-Tuning via Structured Policy Optimization'
-    year: '2025'
+    title: 'DrugImproverGPT: GPT-Driven Drug Optimization with Structured Policy Optimization Post-training'
+    year: '2026'
   drl-JiIAAAAJ:kNdYIx-mwKoC:
     citations: 2
     title: Scaffold-driven gpt model for drug optimization
