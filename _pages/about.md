@@ -44,7 +44,7 @@ My research interests include, but are not limited to:
 
 - **Reinforcement Learning**
   - RL in pretraining, post-training, decoding
-  - Multimodal Reasoning, planning, and decision-making under uncertainty
+  - Reasoning, planning, decision-making under uncertainty and sequential experiment design
 
 - **Agentic AI Systems**
   - Agentic reinforcement learning
