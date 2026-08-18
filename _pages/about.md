@@ -92,7 +92,7 @@ My research interests include, but are not limited to:
 I am fortunate to work with the following talented and motivated students and researchers: (Visiting *)
 
 - **Postdoctoral Researchers:**
-  - Yisel Martinez Noa, Ph.D.
+  - Yisel Martinez Noa, Ph.D., University of Florida
   - Xiao Luo, Ph.D., University of Chicago *
   - Xiaotian Duan, Ph.D., Argonne National Laboratory *
 
