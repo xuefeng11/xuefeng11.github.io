@@ -79,6 +79,7 @@ My research interests include, but are not limited to:
 
 - **[CAI 6734]** Applied Generative AI in Medicine — Fall 2026
 
+---
 
 ***Team:***
 
@@ -98,3 +99,5 @@ I am fortunate to work with the following talented and motivated students and re
   - Lilah Chen, Barnard College, Columbia University *
   - Tianyi Chen, University of Wisconsin–Madison *
   - Siyuan Jiang, Tsinghua University *
+  
+---
