@@ -47,8 +47,8 @@ My research interests include, but are not limited to:
   - Multimodal Reasoning, planning, and decision-making under uncertainty
 
 - **Agentic AI Systems**
-  - Autonomous scientific discovery, automated research, and Auto-Lab
   - Agentic reinforcement learning
+  - Autonomous scientific discovery, automated research, and Auto-Lab
 
 - **Generative AI and Foundation Models**
   - Generative modeling for biomedicine and beyond
