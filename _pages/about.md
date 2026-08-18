@@ -97,8 +97,8 @@ I am fortunate to work with the following talented and motivated students and re
   - Xiaotian Duan, Ph.D., Argonne National Laboratory *
 
 - **Ph.D. Students:**
-  - Mingxuan Cao, University of Chicago *
   - Luna Lyu, Stanford University *
+  - Mingxuan Cao, University of Chicago *
   - Zhenya Liu, University of Chicago *
   - Jingtian Ji, Toyota Technological Institute at Chicago *
 
