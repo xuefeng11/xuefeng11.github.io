@@ -40,14 +40,15 @@ latest_posts:
 My research interests include, but are not limited to:
 
 - **AI for Biomedicine**
-  - Biomolecular design, drug discovery, biomarker discovery, lead discovery and optimization
+  - Biomolecular design, drug discovery, biomarker discovery, lead optimization
 
 - **Reinforcement Learning**
   - RL in pretraining, post-training, decoding
-  - Reasoning, planning, and decision-making under uncertainty
+  - Multimodal Reasoning, planning, and decision-making under uncertainty
 
-- **Agentic AI for Scientific Discovery**
-  - Multimodal reasoning systems for autonomous scientific discovery
+- **Agentic AI Systems**
+  - Autonomous scientific discovery, automated research, and Auto-Lab
+  - Agentic reinforcement learning
 
 - **Generative AI and Foundation Models**
   - Generative modeling for biomedicine and beyond
@@ -56,6 +57,7 @@ My research interests include, but are not limited to:
   - Physics- and Biology-informed machine learning
 
 - **Human-AI co-scientist**
+  - Human–AI collaboration for scientific reasoning, hypothesis generation, and discovery
 
 <!-- - **Multimodal Machine Learning**
   - Multimodal representation learning for biological systems   -->
@@ -68,12 +70,16 @@ My research interests include, but are not limited to:
 
 **About Me:** Before joining UF, I was a Postdoctoral Fellow at School of Medicine, <a href="https://www.stanford.edu/">Stanford University</a>, working with <a href="https://www.stanford.edu/">Prof. Le Cong</a> and <a href="https://www.princeton.edu/">Prof. Mengdi Wang (Princeton University)</a>. Before joining Stanford, I received my Ph.D. in Computer Science from <a href="https://www.uchicago.edu/">University of Chicago</a>, where I was advised by <a href="https://computerscience.uchicago.edu/people/rick-stevens/">Prof. Rick L. Stevens</a>, with co-advisors <a href="https://yuxinchen.org/">Prof. Yuxin Chen</a> and <a href="https://home.ttic.edu/~jinbo/">Prof. Jinbo Xu</a>, and mentorship from <a href="https://sosnick.uchicago.edu/">Prof. Tobin R. Sosnick</a>. I also served as a Research Associate at <a href="https://www.anl.gov/">Argonne National Laboratory</a>, where my work focuses on AI for Biomedicine.
 
+---
+
 ***Open Opportunities:***
 
 - **[Recruiting]** My lab is **actively recruiting motivated PhD students and Postdoc researchers**. If you are interested in our research, please send your CV, a brief summary of your research experience, and a description of your research interests to <a href="mailto:xuefeng.liu@ufl.edu">xuefeng.liu@ufl.edu</a>.
 
 
 - **[Research Students]** I have open research opportunities, including on-site visiting student positions. Feel free to email me if you are interested! Candidates are expected to have earned an A- or A in Deep Learning or a related course.
+
+---
 
 ***Teaching:***
 
@@ -99,5 +105,5 @@ I am fortunate to work with the following talented and motivated students and re
   - Lilah Chen, Barnard College, Columbia University *
   - Tianyi Chen, University of Wisconsin–Madison *
   - Siyuan Jiang, Tsinghua University *
-  
+
 ---
