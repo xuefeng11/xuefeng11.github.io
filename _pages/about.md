@@ -77,7 +77,7 @@ My research interests include, but are not limited to:
 - **[Recruiting]** My lab is **actively recruiting motivated PhD students and Postdoc researchers**. If you are interested in our research, please send your CV, a brief summary of your research experience, and a description of your research interests to <a href="mailto:xuefeng.liu@ufl.edu">xuefeng.liu@ufl.edu</a>.
 
 
-- **[Research Students]** I have open research opportunities, including on-site visiting student positions. Feel free to email me if you are interested! Candidates are expected to have earned an A- or A in Deep Learning or a related course.
+- **[Research Students]** I have open research opportunities, including **on-site visiting student positions**. Feel free to email me if you are interested! Candidates are expected to have earned an A- or A in Deep Learning or a related course.
 
 ---
 
