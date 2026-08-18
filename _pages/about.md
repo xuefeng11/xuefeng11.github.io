@@ -16,8 +16,6 @@ profile:
     </div>
 
 
-  
-
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -86,17 +84,17 @@ My research interests include, but are not limited to:
 
 I am fortunate to work with the following talented and motivated students and researchers: (Visiting *)
 
-**Postdoctoral Researchers:**
-- Yisel Martinez Noa, Ph.D.
-- Xiao Luo, Ph.D., University of Chicago *
-- Xiaotian Duan, Ph.D., Argonne National Laboratory *
+- **Postdoctoral Researchers:**
+  - Yisel Martinez Noa, Ph.D.
+  - Xiao Luo, Ph.D., University of Chicago *
+  - Xiaotian Duan, Ph.D., Argonne National Laboratory *
 
-**Ph.D. Students:**
-- Mingxuan (Adrian) Cao, University of Chicago *
-- Luna Lyu, Stanford University *
+- **Ph.D. Students:**
+  - Mingxuan (Adrian) Cao, University of Chicago *
+  - Luna Lyu, Stanford University *
 
-**Undergraduate Students:**
-- Meitong Chen, University of North Carolina at Chapel Hill *
-- Lilah Chen, Barnard College, Columbia University *
-- Tianyi Chen, University of Wisconsin–Madison *
-- Siyuan Jiang, Tsinghua University *
+- **Undergraduate Students:**
+  - Meitong Chen, University of North Carolina at Chapel Hill *
+  - Lilah Chen, Barnard College, Columbia University *
+  - Tianyi Chen, University of Wisconsin–Madison *
+  - Siyuan Jiang, Tsinghua University *
