@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- Our preprint &quot;Leveraging generative hallucination and biophysics-informed modeling for unified biomolecular sequence-structure co-desig&quot; is posted on arXiv.
+- Our preprint &quot;Leveraging generative hallucination and biophysics-informed modeling for unified biomolecular sequence-structure co-design&quot; is posted on arXiv.
