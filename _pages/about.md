@@ -35,7 +35,8 @@ latest_posts:
 
 - **Machine Learning Foundations**: I develop practically driven, theoretically grounded methods in reinforcement learning, Agentic AI,and generative modeling.
 
-- **AI for Biomedicine**: I integrate biomedical modeling with advanced AI to address the **CURED** challenges — <u>C</u>ontrollability, <u>U</u>nified multimodality, <u>R</u>obustness, <u>E</u>fficiency, and <u>D</u>ependability on biophysical and biological principles — in disease diagnosis and therapy.
+- **AI for Biomedical Discovery**: 
+My research currently focuses on building **Agentic Reinforcement Learning Systems for Autonomous Biomedical Discovery**, encompassing scientific reasoning and hypothesis generation, adaptive experimental design, autonomous laboratory operation, multimodal feedback learning, and continuous self-evolution and improvement. A central goal is to advance these systems in terms of **efficiency, trustworthiness, autonomy, cost-effectiveness, and reliability in achieving scientific discoveries**. In parallel, I develop novel generative AI models as core components and enabling tools within these systems, with the ultimate goal of accelerating disease diagnosis and therapeutic discovery.
 
 My research interests include, but are not limited to:
 
@@ -59,7 +60,7 @@ My research interests include, but are not limited to:
 - **AI for Biomedicine**
   - Biomolecular design, drug discovery, biomarker discovery, lead optimization
 
-  
+
 <!-- - **Multimodal Machine Learning**
   - Multimodal representation learning for biological systems   -->
 
