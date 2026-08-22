@@ -106,9 +106,9 @@ I am fortunate to work with the following talented and motivated students and re
   - Jingtian Ji, Toyota Technological Institute at Chicago *
 
 - **Undergraduate Students:**
+  - Tianyi Chen, University of Wisconsin–Madison *
   - Meitong Chen, University of North Carolina at Chapel Hill *
   - Lilah Chen, Barnard College, Columbia University *
-  - Tianyi Chen, University of Wisconsin–Madison *
   - Siyuan Jiang, Tsinghua University *
 
 ---
