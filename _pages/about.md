@@ -58,6 +58,8 @@ My research interests include, but are not limited to:
 
 - **AI for Biomedicine**
   - Biomolecular design, drug discovery, biomarker discovery, lead optimization
+
+  
 <!-- - **Multimodal Machine Learning**
   - Multimodal representation learning for biological systems   -->
 
