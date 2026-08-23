@@ -91,7 +91,7 @@ In parallel, I develop novel generative AI models as core components of these sy
 
 ***Team:***
 
-I am fortunate to work with the following talented and motivated students and researchers: (Visiting *)
+I am fortunate to work with the following talented and motivated students and researchers: (* Visiting, in person/remote)
 
 - **Postdoctoral Researchers:**
   - Yisel Martinez Noa, Ph.D., University of Florida
