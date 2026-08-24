@@ -45,7 +45,7 @@ In parallel, I develop novel generative AI models as core components of these sy
   - Reasoning, planning, decision-making under uncertainty and sequential experiment design
 
 - **Agentic AI Systems**
-  - Agentic reinforcement learning
+  - Agentic reinforcement learning, self-distillation, self-evolution
   - Autonomous scientific discovery, auto-research, and lab automation
 
 - **Generative AI and Foundation Models**
@@ -104,6 +104,9 @@ I am fortunate to work with the following talented and motivated students and re
   - Luna Lyu, Stanford University *
   - Minghao Guo, MIT *
   - Jingtian Ji, Toyota Technological Institute at Chicago *
+
+- **Master Students:**
+  - Weiyi Tian, University of Chicago *
 
 - **Undergraduate Students:**
   - Tianyi Chen, University of Wisconsin–Madison *
