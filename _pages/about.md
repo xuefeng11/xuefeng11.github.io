@@ -45,7 +45,7 @@ In parallel, I develop novel generative AI models as core components of these sy
   - Reasoning, planning, decision-making under uncertainty and sequential experiment design
 
 - **Agentic AI Systems**
-  - Agentic reinforcement learning, self-distillation, self-evolution
+  - Agentic reinforcement learning, self-distillation, and self-evolution
   - Autonomous scientific discovery, auto-research, and lab automation
 
 - **Generative AI and Foundation Models**
