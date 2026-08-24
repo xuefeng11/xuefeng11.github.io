@@ -55,12 +55,9 @@ In parallel, I develop novel generative AI models as core components of these sy
 - **Human-AI co-scientist**
   - Human–AI collaboration for scientific reasoning, hypothesis generation, and discovery
 
-- **Scientific Machine Learning**
-  - Physics- and Biology-informed machine learning
-
 - **AI for Biomedicine**
   - Biomolecular design, drug discovery, biomarker discovery, lead optimization
-
+  - Physics- and Biology-informed machine learning
 
 <!-- - **Multimodal Machine Learning**
   - Multimodal representation learning for biological systems   -->
