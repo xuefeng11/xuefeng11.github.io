@@ -114,4 +114,7 @@ I am fortunate to work with the following talented and motivated students and re
   - Lilah Chen, Barnard College, Columbia University *
   - Siyuan Jiang, Tsinghua University *
 
+- **Service:**
+  - Tinson Xu, University of Chicago Laboratory Schools
+  
 ---
