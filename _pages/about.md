@@ -11,8 +11,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <div style="text-align: center; width: 100%;">
-      <p style="margin: 0;">265 Campus Drive</p>
-      <p style="margin: 0;">Stanford, CA 94305</p>
+      <p style="margin: 0;">1889 Museum Road, Suite #2407</p>
+      <p style="margin: 0;">Gainesville, FL 32611</p>
     </div>
 
 
