@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- Our paper &quot;*Multi-Objective Coverage via Constraint Active Search*&quot; is accepted by **AAMAS 2026** as an **oral presentation**.
+- Our paper &quot;Multi-Objective Coverage via Constraint Active Search&quot; is accepted by **AAMAS 2026** as an **oral presentation**.

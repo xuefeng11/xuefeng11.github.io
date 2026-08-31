@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- Our paper &quot;*Active Policy Improvement from Multiple Black-Box Oracles*&quot; is accepted by **ICML 2023**.
+- Our paper &quot;Active Policy Improvement from Multiple Black-Box Oracles&quot; is accepted by **ICML 2023**.

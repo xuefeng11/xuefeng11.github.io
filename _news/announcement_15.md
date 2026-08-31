@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- Our paper &quot;*A Ground-Up Designed Controllable GPT for Molecule Optimization*&quot; is presented at the **ICML 2025 Generative AI and Biology Workshop**.
+- Our paper &quot;A Ground-Up Designed Controllable GPT for Molecule Optimization&quot; is presented at the **ICML 2025 Generative AI and Biology Workshop**.

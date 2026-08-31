@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- Our paper &quot;*APO: Advantage-Alignment Policy Optimization for Fine-Tuning Generative Models*&quot; is presented at the **ICLR 2024 Generative Models for Decision Making Workshop**.
+- Our paper &quot;APO: Advantage-Alignment Policy Optimization for Fine-Tuning Generative Models&quot; is presented at the **ICLR 2024 Generative Models for Decision Making Workshop**.
