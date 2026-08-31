@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- Our paper &quot;Contextual Active Model Selection&quot; is accepted by **NeurIPS 2024**.
+- Our paper &quot;*Contextual Active Model Selection*&quot; is accepted by **NeurIPS 2024**.

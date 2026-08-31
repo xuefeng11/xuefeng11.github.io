@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- Our paper &quot;Blending Imitation and Reinforcement Learning for Robust Policy Improvement&quot; is accepted by **ICLR 2023** as a **spotlight presentation**.
+- Our paper &quot;*Blending Imitation and Reinforcement Learning for Robust Policy Improvement*&quot; is accepted by **ICLR 2023** as a **spotlight presentation**.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- Our paper &quot;Bidirectional Hierarchical Protein Multi-Modal Representation Learning&quot; is accepted by **MLHC 2025**.
+- Our paper &quot;*Bidirectional Hierarchical Protein Multi-Modal Representation Learning*&quot; is accepted by **MLHC 2025**.

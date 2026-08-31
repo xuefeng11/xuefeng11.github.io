@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- Our paper &quot;AI-Accelerated Protein-Ligand Docking for SARS-CoV-2 Is 100-Fold Faster with No Significant Change in Detection&quot; is published in **Scientific Reports**.
+- Our paper &quot;*AI-Accelerated Protein-Ligand Docking for SARS-CoV-2 Is 100-Fold Faster with No Significant Change in Detection*&quot; is published in **Scientific Reports**.

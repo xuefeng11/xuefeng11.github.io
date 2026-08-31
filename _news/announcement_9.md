@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- Our paper &quot;CACHE Challenge# 3: Targeting the Nsp3 Macrodomain of SARS-CoV-2&quot; is published in **Journal of Chemical Information and Modeling**.
+- Our paper &quot;*CACHE Challenge# 3: Targeting the Nsp3 Macrodomain of SARS-CoV-2*&quot; is published in **Journal of Chemical Information and Modeling**.
