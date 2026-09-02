@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-17'
+  last_updated: '2026-09-02'
 papers:
   drl-JiIAAAAJ:3fE2CSJIrl8C:
     citations: 2
@@ -18,11 +18,15 @@ papers:
     title: Active Advantage-Aligned Online Reinforcement Learning with Offline Data
     year: '2025'
   drl-JiIAAAAJ:8k81kl-MbHgC:
-    citations: 5
+    citations: 7
     title: 'ControllableGPT: A Ground-Up Designed Controllable GPT for Molecule Optimization'
     year: '2025'
+  drl-JiIAAAAJ:9ZlFYXVOiuMC:
+    citations: 0
+    title: Leveraging generative hallucination and biophysics-informed modeling for unified biomolecular sequence-structure co-design
+    year: '2026'
   drl-JiIAAAAJ:KlAtU1dfN6UC:
-    citations: 3
+    citations: 5
     title: 'FragmentGPT: A Unified GPT Model for Fragment Growing, Linking, and Merging in Molecular Design'
     year: '2025'
   drl-JiIAAAAJ:LkGwnXOMwfcC:
@@ -32,13 +36,17 @@ papers:
   drl-JiIAAAAJ:M3ejUd6NZC8C:
     citations: 0
     title: Leveraging Active Reinforcement Learning and Generative Models for Biomolecular Design
-    year: Unknown Year
+    year: '2026'
   drl-JiIAAAAJ:MXK_kJrjxJIC:
-    citations: 5
+    citations: 6
     title: Bidirectional Hierarchical Protein Multimodal Representation Learning
     year: '2025'
+  drl-JiIAAAAJ:QIV2ME_5wuYC:
+    citations: 0
+    title: 'Shared Actors Need Not Share Critics: Effects of Value Mismatch in Parallel Reinforcement Learning'
+    year: '2026'
   drl-JiIAAAAJ:Se3iqnhoufwC:
-    citations: 22
+    citations: 23
     title: Reflections from the 2024 large language model (LLM) hackathon for applications in materials science and chemistry
     year: '2024'
   drl-JiIAAAAJ:Tyk-4Ss8FVUC:
@@ -50,11 +58,11 @@ papers:
     title: Contextual Active Online Model Selection with Expert Advice
     year: '2022'
   drl-JiIAAAAJ:UebtZRa9Y70C:
-    citations: 7
+    citations: 9
     title: 'ScaffoldGPT: A Scaffold-based GPT Model for Drug Optimization'
     year: '2025'
   drl-JiIAAAAJ:WF5omc3nYNoC:
-    citations: 12
+    citations: 15
     title: Entropy-Reinforced Planning with Large Language Models for Drug Discovery
     year: '2024'
   drl-JiIAAAAJ:Y0pCki6q_DkC:
@@ -70,7 +78,7 @@ papers:
     title: 'DrugImprover: Utilizing Reinforcement Learning for Multi-Objective Alignment in Drug Optimization'
     year: '2023'
   drl-JiIAAAAJ:Zph67rFs4hoC:
-    citations: 2
+    citations: 3
     title: Monte Carlo Tree Diffusion with Multiple Experts for Protein Design
     year: '2025'
   drl-JiIAAAAJ:_FxGoFyzp5QC:
@@ -90,7 +98,7 @@ papers:
     title: 'APO: Advantage-alignment Policy Optimization for Fine-tuning Generative Models'
     year: '2024'
   drl-JiIAAAAJ:hqOjcs7Dif8C:
-    citations: 9
+    citations: 12
     title: 'DrugImproverGPT: GPT-Driven Drug Optimization with Structured Policy Optimization Post-training'
     year: '2026'
   drl-JiIAAAAJ:kNdYIx-mwKoC:
