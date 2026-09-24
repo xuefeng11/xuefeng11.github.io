@@ -103,10 +103,12 @@ I am fortunate to work with the following talented and motivated students and re
   - Zhenya Liu, University of Chicago *
   - Luna Lyu, Stanford University *
   - Minghao Guo, MIT *
+  - Hengguang Zhou, UCLA *
   - Jingtian Ji, Toyota Technological Institute at Chicago *
 
 - **Master Students:**
   - Weiyi Tian, University of Chicago *
+  - Jiayu Zhao, University of Chicago
 
 - **Undergraduate Students:**
   - Tianyi Chen, University of Wisconsin–Madison *
