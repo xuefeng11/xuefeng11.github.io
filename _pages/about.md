@@ -97,7 +97,7 @@ I am fortunate to work with the following talented and motivated students and re
   - Yisel Martinez Noa, Ph.D., University of Florida
   - Xiao Luo, Ph.D., University of Chicago *
   - Xiaotian Duan, Ph.D., Argonne National Laboratory *
-  - Preethi Krishanan, Mayo Clinic
+  - Preethi Krishanan, Mayo Clinic *
 
 - **Ph.D. Students:**
   - Mingxuan Cao, University of Chicago *
