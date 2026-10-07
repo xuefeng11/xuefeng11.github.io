@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- Excited to receive Anthropic’s AI for Science award, with $50,000 in Claude API credits to support research in our lab!
+- Honored to receive Anthropic’s AI for Science award, with $50,000 in Claude API credits to support research in our lab!
