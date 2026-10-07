@@ -97,11 +97,14 @@ I am fortunate to work with the following talented and motivated students and re
   - Yisel Martinez Noa, Ph.D., University of Florida
   - Xiao Luo, Ph.D., University of Chicago *
   - Xiaotian Duan, Ph.D., Argonne National Laboratory *
+  - Preethi Krishanan, Mayo Clinic
 
 - **Ph.D. Students:**
   - Mingxuan Cao, University of Chicago *
   - Zhenya Liu, University of Chicago *
   - Luna Lyu, Stanford University *
+  - Xi Chen, Stanford University *
+  - Yi Zhu, UC Berkeley *
   - Minghao Guo, MIT *
   - Hengguang Zhou, UCLA *
   - Jingtian Ji, Toyota Technological Institute at Chicago *
@@ -109,6 +112,7 @@ I am fortunate to work with the following talented and motivated students and re
 - **Master Students:**
   - Weiyi Tian, University of Chicago *
   - Jiayu Zhao, University of Chicago
+  - Sai Chaganty, Carnegie Mellon University *
 
 - **Undergraduate Students:**
   - Tianyi Chen, University of Wisconsin–Madison *
