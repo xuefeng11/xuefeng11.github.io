@@ -568,7 +568,7 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=drl-JiIAAAAJ&hl=en", "_blank");
+          window.open("https://scholar.google.com/citations?user=OnJ1rTkAAAAJ&hl=en", "_blank");
         },
       },{
         id: 'social-x',
