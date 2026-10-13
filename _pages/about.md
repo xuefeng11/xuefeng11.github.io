@@ -51,9 +51,8 @@ In parallel, I develop novel generative AI models as core components of these sy
   - Agentic reinforcement learning
   - Autonomous scientific discovery, auto-research, and lab automation
 
-- **Generative AI and Foundation Models**
-  - Generative modeling for biomedicine and beyond
-  - Foundation model pretraining
+- **Generative AI, Foundation Models, and World Models**
+  - Scientific foundation and world models pretraining
 
 - **Human-AI co-scientist**
   - Human–AI collaboration for scientific reasoning, hypothesis generation, and discovery
