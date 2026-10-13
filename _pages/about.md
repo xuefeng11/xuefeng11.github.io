@@ -44,22 +44,23 @@ My research primarily focuses on building &emsp;
 In parallel, I develop novel generative AI models as core components of these systems, with the ultimate goal of accelerating disease diagnosis and therapeutic discovery. My research interests include, but are not limited to:
 
 - **Reinforcement Learning**
-  - RL in pretraining, post-training, decoding optimization
+  - RL for post-training, test-time optimization, distillation, and self-evolution
   - Reasoning, planning, decision-making under uncertainty and sequential experiment design
 
 - **Agentic AI Systems**
-  - Agentic reinforcement learning, self-distillation, and self-evolution
+  - Agentic reinforcement learning
   - Autonomous scientific discovery, auto-research, and lab automation
 
 - **Generative AI and Foundation Models**
   - Generative modeling for biomedicine and beyond
+  - Foundation model pretraining
 
 - **Human-AI co-scientist**
   - Human–AI collaboration for scientific reasoning, hypothesis generation, and discovery
 
 - **AI for Biomedicine**
-  - Biomolecular design, drug discovery, biomarker discovery, lead optimization
-  - Physics- and Biology-informed machine learning
+  - Biomolecular design, drug discovery, target discovery, lead optimization
+  - Biophysics-informed machine learning
 
 <!-- - **Multimodal Machine Learning**
   - Multimodal representation learning for biological systems   -->
