@@ -48,11 +48,11 @@ In parallel, I develop novel generative AI models as core components of these sy
   - Reasoning, planning, decision-making under uncertainty and sequential experiment design
 
 - **Agentic AI Systems**
-  - Agentic reinforcement learning
-  - Autonomous scientific discovery, auto-research, and lab automation
+  - Agentic RL for scientific discovery
+  - Auto-research, lab automation
 
-- **Generative AI, Foundation Models, and World Models**
-  - Scientific world model pretraining
+- **GenAI, Foundation Models, and World Models**
+  - Pretraining scientific world model 
 
 - **Human-AI co-scientist**
   - Human–AI collaboration for scientific reasoning, hypothesis generation, and discovery
@@ -100,21 +100,28 @@ I am fortunate to work with the following talented and motivated students and re
   - Preethi Krishanan, Mayo Clinic *
 
 - **Ph.D. Students:**
+  - Ahmed Soliman, University of Florida (co-mentor with Dr. Azra Bihorac)
+  - Andrew Valentini, University of Florida
+  - Xianglu Xiao, Imperial College London *
+  - Luna Lyu, Stanford University *
   - Mingxuan Cao, University of Chicago *
   - Zhenya Liu, University of Chicago *
-  - Luna Lyu, Stanford University *
   - Xi Chen, Stanford University *
   - Yi Zhu, UC Berkeley *
   - Minghao Guo, MIT *
   - Hengguang Zhou, UCLA *
-  - Jingtian Ji, Toyota Technological Institute at Chicago *
 
 - **Master Students:**
+  - William Kieffer, University of Florida
+  - Jingyan Yu, Columbia University
   - Weiyi Tian, University of Chicago *
   - Jiayu Zhao, University of Chicago
   - Sai Chaganty, Carnegie Mellon University *
+  
 
 - **Undergraduate Students:**
+  - Youssef Alhamzawi, University of Florida
+  - Raad Nino, University of Florida (co-mentor with Dr. May Khanna)
   - Tianyi Chen, University of Wisconsin–Madison *
   - Meitong Chen, University of North Carolina at Chapel Hill *
   - Lilah Chen, Barnard College, Columbia University *
