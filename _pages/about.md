@@ -48,8 +48,8 @@ In parallel, I develop novel generative AI models as core components of these sy
   - Reasoning, planning, decision-making under uncertainty and sequential experiment design
 
 - **Agentic AI Systems**
-  - Agentic RL for scientific discovery
-  - Auto-research, lab automation
+  - Agentic reinforcement learning
+  - Autonomous scientific discovery, auto-research, and lab automation
 
 - **GenAI, Foundation Models, and World Models**
   - Pretraining scientific world model 
