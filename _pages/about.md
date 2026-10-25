@@ -44,8 +44,8 @@ My research primarily focuses on building &emsp;
 In parallel, I develop novel generative AI models as core components of these systems, with the ultimate goal of accelerating disease diagnosis and therapeutic discovery. My research interests include, but are not limited to:
 
 - **Reinforcement Learning and Adaptive Decision-Making**
-  - RL for post-training, test-time optimization, distillation, and self-evolution
-  - Reasoning, planning, and decision-making under uncertainty
+  - RL for post-training, test-time optimization, distillation, and self-improvement
+  - Reasoning, planning, scientific exploration, and decision-making under uncertainty
   - Sequential experimental design and active learning
 
 - **Agentic AI Systems**
