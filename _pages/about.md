@@ -59,7 +59,7 @@ In parallel, I develop novel generative AI models as core components of these sy
 
 - **AI for Biomedicine**
   - Biomolecular design, drug discovery, target discovery, lead optimization
-  - Biophysics-informed machine learning
+  - AI for scientific discovery
 
 <!-- - **Multimodal Machine Learning**
   - Multimodal representation learning for biological systems   -->
@@ -79,7 +79,7 @@ In parallel, I develop novel generative AI models as core components of these sy
 - **[Recruiting]** My lab is **actively recruiting motivated PhD students and Postdoc researchers**. If you are interested in our research, please send your CV, a brief summary of your research experience, and a description of your research interests to <a href="mailto:xuefeng.liu@ufl.edu">xuefeng.liu@ufl.edu</a>.
 
 
-- **[Research Students]** I have open research opportunities, including **on-site visiting student positions**. Feel free to email me if you are interested! Candidates are expected to have earned an A- or A in Deep Learning or a related course.
+- **[Research Students]** I have open research opportunities, including **on-site/remote visiting student positions**. Feel free to email me if you are interested! Candidates are expected to have earned an A- or A in Deep Learning or a related course.
 
 ---
 
