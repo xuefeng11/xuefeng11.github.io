@@ -35,7 +35,7 @@ latest_posts:
 
 **Research:** My research spans two complementary directions.
 
-- **Machine Learning Foundations**: I develop practically driven, theoretically grounded methods in reinforcement learning, Agentic AI,and generative modeling.
+- **Machine Learning Foundations**: I develop practically driven, theoretically grounded methods in reinforcement learning, Agentic AI, and generative modeling.
 
 - **AI for Biomedical Discovery**: 
 My research primarily focuses on building &emsp;
@@ -43,23 +43,26 @@ My research primarily focuses on building &emsp;
 
 In parallel, I develop novel generative AI models as core components of these systems, with the ultimate goal of accelerating disease diagnosis and therapeutic discovery. My research interests include, but are not limited to:
 
-- **Reinforcement Learning**
+- **Reinforcement Learning and Adaptive Decision-Making**
   - RL for post-training, test-time optimization, distillation, and self-evolution
-  - Reasoning, planning, decision-making under uncertainty and sequential experiment design
+  - Reasoning, planning, and decision-making under uncertainty
+  - Sequential experimental design and active learning
 
 - **Agentic AI Systems**
-  - Agentic reinforcement learning
-  - Autonomous scientific discovery, auto-research, and lab automation
+  - Agentic reinforcement learning and self-evolving research agents
+  - Scientific hypothesis generation, autonomous discovery, and laboratory automation
 
-- **GenAI, Foundation Models, and World Models**
-  - Pretraining scientific world model 
+- **Generative AI, Foundation Models, and World Models**
+  - Pretraining scientific foundation models and learning world models for prediction and planning
 
 - **Human-AI co-scientist**
-  - Human–AI collaboration for scientific reasoning, hypothesis generation, and discovery
+  - Human–AI collaboration for scientific reasoning, hypothesis refinement, and discovery
 
 - **AI for Biomedicine**
-  - Biomolecular design, drug discovery, target discovery, lead optimization
-  - AI for scientific discovery
+  - Biomolecular design and therapeutic discovery
+  - Target discovery, drug design, and lead optimization
+
+
 
 <!-- - **Multimodal Machine Learning**
   - Multimodal representation learning for biological systems   -->
