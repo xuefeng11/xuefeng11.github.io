@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- Invited to serve as an Area Chair of NeurIPS 2026 GenAI for Health workshop.
+- Invited to serve as an **Area Chair of NeurIPS 2026 GenAI for Health** workshop.
