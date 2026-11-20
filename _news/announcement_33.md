@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 - Our paper &quot;Unified Fragment Growing, Linking, and Merging with Energy-Aware
-Pretraining and Reward-Ranked Alignment&quot; is accepted as finding paper of **EMNLP 2026**!
+  Pretraining and Reward-Ranked Alignment&quot; is accepted as finding paper of **EMNLP 2026**!

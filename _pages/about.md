@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-   Assistant Professor, College of Medicine and AI for Health Institute, <a href="https://www.ufl.edu/">University of Florida</a> <br> Postdoc, School of Medicine, <a href="https://www.stanford.edu/">Stanford University</a> <br> Ph.D., Department of Computer Science, <a href="https://www.uchicago.edu/">University of Chicago</a> <br> <a href="mailto:xuefeng.liu@ufl.edu">xuefeng.liu@ufl.edu (primary)</a>, <a href="mailto:xfl@stanford.edu">xfl@stanford.edu</a>, <a href="mailto:xuefeng@uchicago.edu">xuefeng@uchicago.edu</a>
+  Assistant Professor, College of Medicine and AI for Health Institute, <a href="https://www.ufl.edu/">University of Florida</a> <br> Postdoc, School of Medicine, <a href="https://www.stanford.edu/">Stanford University</a> <br> Ph.D., Department of Computer Science, <a href="https://www.uchicago.edu/">University of Chicago</a> <br> <a href="mailto:xuefeng.liu@ufl.edu">xuefeng.liu@ufl.edu (primary)</a>, <a href="mailto:xfl@stanford.edu">xfl@stanford.edu</a>, <a href="mailto:xuefeng@uchicago.edu">xuefeng@uchicago.edu</a>
 
 Note: Email responses may sometimes be delayed. Thank you for your understanding.
 
@@ -16,8 +16,6 @@ profile:
       <p style="margin: 0;">1889 Museum Road, #2407</p>
       <p style="margin: 0;">Gainesville, FL 32611</p>
     </div>
-
-
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -37,32 +35,34 @@ latest_posts:
 
 - **Machine Learning Foundations**: I develop practically driven, theoretically grounded methods in reinforcement learning, Agentic AI, and generative modeling.
 
-- **AI for Biomedical Discovery**: 
-My research primarily focuses on building &emsp;
-***Agentic Reinforcement Learning Systems for Automated Biomedical Discovery***, encompassing scientific reasoning and hypothesis generation, adaptive experimental design, lab automation, multimodal feedback learning, and self-evolution. A central goal is to advance these systems in terms of <u>e</u>fficiency, <u>t</u>rustworthiness, <u>a</u>utonomy, <u>c</u>ost-effectiveness, <u>a</u>daptability, and <u>r</u>eliability in achieving scientific discoveries. 
+- **AI for Biomedical Discovery**:
+  My research primarily focuses on building &emsp;
+  **_Agentic Reinforcement Learning Systems for Automated Biomedical Discovery_**, encompassing scientific reasoning and hypothesis generation, adaptive experimental design, lab automation, multimodal feedback learning, and self-evolution. A central goal is to advance these systems in terms of <u>e</u>fficiency, <u>t</u>rustworthiness, <u>a</u>utonomy, <u>c</u>ost-effectiveness, <u>a</u>daptability, and <u>r</u>eliability in achieving scientific discoveries.
 
 In parallel, I develop novel generative AI models as core components of these systems, with the ultimate goal of accelerating disease diagnosis and therapeutic discovery. My research interests include, but are not limited to:
 
 - **Reinforcement Learning and Adaptive Decision-Making**
+
   - RL for post-training, test-time optimization, distillation, and self-improvement
   - Reasoning, planning, scientific exploration, and decision-making under uncertainty
   - Sequential experimental design and active learning
 
 - **Agentic AI Systems**
+
   - Agentic reinforcement learning and self-evolving agentic system
   - Scientific hypothesis generation, autonomous discovery, and laboratory automation
 
 - **Generative AI and World Models**
+
   - Pretraining scientific foundation models and learning world models for prediction and planning
 
 - **Human-AI co-scientist**
+
   - Human–AI collaboration for scientific reasoning, hypothesis refinement, and discovery
 
 - **AI for Biomedicine**
   - Biomolecular design and therapeutic discovery
   - Target discovery, drug design, and lead optimization
-
-
 
 <!-- - **Multimodal Machine Learning**
   - Multimodal representation learning for biological systems   -->
@@ -77,16 +77,15 @@ In parallel, I develop novel generative AI models as core components of these sy
 
 ---
 
-***Open Opportunities:***
+**_Open Opportunities:_**
 
 - **[Recruiting]** My lab is **actively recruiting motivated PhD students and Postdoc researchers**. If you are interested in our research, please send your CV, a brief summary of your research experience, and a description of your research interests to <a href="mailto:xuefeng.liu@ufl.edu">xuefeng.liu@ufl.edu</a>.
-
 
 - **[Research Students]** I have open research opportunities, including **on-site/remote visiting student positions**. Feel free to email me if you are interested! Candidates are expected to have earned an A- or A in Deep Learning or a related course.
 
 ---
 
-***Teaching:***
+**_Teaching:_**
 
 - **[CAI 6734]** Applied Generative AI in Medicine — Fall 2026
 
@@ -94,43 +93,44 @@ In parallel, I develop novel generative AI models as core components of these sy
 
 ---
 
-***Team:***
+**_Team:_**
 
-I am fortunate to work with the following talented and motivated students and researchers: (* Visiting, in person/remote)
+I am fortunate to work with the following talented and motivated students and researchers: (\* Visiting, in person/remote)
 
 - **Postdoctoral Researchers:**
+
   - Yisel Martinez Noa, Ph.D., University of Florida
-  - Xiao Luo, Ph.D., University of Chicago *
-  - Xiaotian Duan, Ph.D., Argonne National Laboratory *
-  - Preethi Krishanan, Mayo Clinic *
+  - Xiao Luo, Ph.D., University of Chicago \*
+  - Xiaotian Duan, Ph.D., Argonne National Laboratory \*
+  - Preethi Krishanan, Mayo Clinic \*
 
 - **Ph.D. Students:**
+
   - Ahmed Soliman, University of Florida (co-mentor with Dr. Azra Bihorac)
   - Andrew Valentini, University of Florida
-  - Xianglu Xiao, Imperial College London *
-  - Luna Lyu, Stanford University *
-  - Mingxuan Cao, University of Chicago *
-  - Zhenya Liu, University of Chicago *
-  - Xi Chen, Stanford University *
-  - Yi Zhu, UC Berkeley *
-  - Minghao Guo, MIT *
-  - Hengguang Zhou, UCLA *
+  - Xianglu Xiao, Imperial College London \*
+  - Luna Lyu, Stanford University \*
+  - Mingxuan Cao, University of Chicago \*
+  - Zhenya Liu, University of Chicago \*
+  - Xi Chen, Stanford University \*
+  - Yi Zhu, UC Berkeley \*
+  - Minghao Guo, MIT \*
+  - Hengguang Zhou, UCLA \*
 
 - **Master Students:**
+
   - William Kieffer, University of Florida
   - Jingyan Yu, Columbia University
-  - Weiyi Tian, University of Chicago *
+  - Weiyi Tian, University of Chicago \*
   - Jiayu Zhao, University of Chicago
-  - Sai Chaganty, Carnegie Mellon University *
-  
+  - Sai Chaganty, Carnegie Mellon University \*
 
 - **Undergraduate Students:**
   - Youssef Alhamzawi, University of Florida
   - Raad Nino, University of Florida (co-mentor with Dr. May Khanna)
-  - Tianyi Chen, University of Wisconsin–Madison *
-  - Meitong Chen, University of North Carolina at Chapel Hill *
-  - Lilah Chen, Barnard College, Columbia University *
-  - Siyuan Jiang, Tsinghua University *
-
+  - Tianyi Chen, University of Wisconsin–Madison \*
+  - Meitong Chen, University of North Carolina at Chapel Hill \*
+  - Lilah Chen, Barnard College, Columbia University \*
+  - Siyuan Jiang, Tsinghua University \*
 
 ---
