@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- Our paper &quot;Shared Actors Need Not Share Critics: Effects of Value Mismatch in Parallel Reinforcement Learning&quot; is accepted by NeurIPS 2026 DynaFront workshop as an **Oral Presentation**.
+- Our paper &quot;Shared Actors Need Not Share Critics: Effects of Value Mismatch in Parallel Reinforcement Learning&quot; is accepted by **NeurIPS 2026 DynaFront** workshop as an **Oral Presentation**.
