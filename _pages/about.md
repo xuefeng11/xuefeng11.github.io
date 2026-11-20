@@ -89,7 +89,8 @@ In parallel, I develop novel generative AI models as core components of these sy
 ***Teaching:***
 
 - **[CAI 6734]** Applied Generative AI in Medicine — Fall 2026
-- **[CAI 5733]** AI-powered Drug Disocvery
+
+- **[CAI 5733]** AI-powered Drug Discovery
 
 ---
 
