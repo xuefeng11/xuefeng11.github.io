@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- Invited to serve as an Area Chair of ICML-2027 conference.
+- Invited to serve as an **Area Chair of ICML-2027** conference.
