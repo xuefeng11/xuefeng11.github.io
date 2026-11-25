@@ -119,7 +119,6 @@ I am fortunate to work with the following talented and motivated students and re
 
 - **Master Students:**
 
-  - William Kieffer, University of Florida
   - Jingyan Yu, Columbia University
   - Weiyi Tian, University of Chicago \*
   - Jiayu Zhao, University of Chicago
